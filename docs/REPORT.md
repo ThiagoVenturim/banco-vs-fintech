@@ -192,7 +192,7 @@ oportuna, pois analisa o impacto da recente transição de mercado, fornecendo u
 
 ## Preparação dos dados:
 
-A fase de preparação dos dados neste projeto foi dividida em várias sub-etapas essenciais para transformar os dados brutos de diferentes anos em um conjunto de dados coeso e pronto para análise.
+A fase de preparação dos dados neste projeto foi dividida em várias sub-etapas essenciais para transformar os dados brutos de dife eu crentes anos em um conjunto de dados coeso e pronto para análise.
 
 1. Coleta e Integração Inicial dos Dados
 Importação das Bases de Dados: Foram importados três conjuntos de dados distintos, correspondentes às pesquisas State of Data Brazil dos anos de 2022, 2023 e 2024. Para cada ano, um DataFrame do pandas foi criado (df_2022, df_2023, df_2024).
@@ -229,6 +229,62 @@ Essa nova coluna permitiu a segmentação e a análise comparativa entre esses d
 <div id='Análise_exploratórida_dos_dados'/>  
 
 ## Análise Exploratórida dos Dados:
+
+### Eixo 1: Remuneração e Valorização Profissional.
+
+Análise Exploratória: Remuneração no Setor Financeiro (Bancos vs. Fintechs)
+Após a preparação dos dados, a análise exploratória foi iniciada para extrair insights sobre as dinâmicas de remuneração. O foco foi comparar empresas de grande porte (assumidas como bancos tradicionais) e de pequeno/médio porte (assumidas como fintechs) no setor financeiro brasileiro entre 2022 e 2024.
+
+* 1. Transformação de Dados para Análise Salarial
+Para viabilizar a análise quantitativa, a variável categórica faixa_salarial foi transformada em formatos mais adequados:
+
+Criação da Coluna salario_numerico: As faixas salariais foram convertidas para valores numéricos representativos (ex: "de R$ 8.001/mês a R$ 12.000/mês" tornou-se 10000). Essa etapa foi crucial para permitir cálculos estatísticos como média, mediana e quartis. A verificação indicou 36 valores nulos, sugerindo que algumas faixas salariais nos dados não estavam no mapeamento inicial e precisariam de tratamento ou remoção para cálculos específicos.
+
+Ordenação da Faixa Salarial: Foi criada a coluna faixa_salarial_ordenada do tipo categórico ordenado. Isso garantiu que as visualizações respeitassem a ordem lógica das faixas, do menor para o maior salário, evitando erros de interpretação em gráficos.
+
+* 2. Análise da Distribuição Salarial
+Com os dados devidamente formatados, a análise se concentrou em como os salários se distribuíam entre os dois arquétipos de empresa ao longo dos anos.
+
+Distribuição Anual (2022-2024): Os gráficos comparativos anuais mostraram a porcentagem de profissionais em cada faixa salarial. O objetivo era identificar padrões consistentes e diferenças estruturais. Por exemplo, se um tipo de empresa concentra mais profissionais em faixas salariais mais baixas ou mais altas.
+
+![image](https://github.com/user-attachments/assets/0ebc3913-3f16-47b9-ae94-ed1f28ef23d8)
+
+Variação Ano a Ano: A análise da variação percentual anual (ex: 2023 vs. 2022) revelou a dinâmica do mercado. Os gráficos mostraram quais faixas salariais tiveram o maior crescimento ou queda na representatividade de profissionais, indicando tendências como "achatamento" ou "valorização" de certos níveis de remuneração em bancos e fintechs.
+
+![image](https://github.com/user-attachments/assets/d02acf95-76b6-45a5-9b80-1de3aec99439)
+
+Perfil Médio Consolidado (2022-2024): Ao calcular a média da distribuição dos três anos, foi possível visualizar um "retrato" geral e estável do perfil salarial. A análise dos dados (perfil_medio_df) sugere que:
+
+![image](https://github.com/user-attachments/assets/9a108575-7093-4501-b6fa-76c4a5d9de78)
+
+Grandes Empresas (Bancos): Concentram a maior parte de seus profissionais nas faixas mais altas, especialmente de R$ 8.001/mês a R$ 12.000/mês (25.68%) e de R$ 12.001/mês a R$ 16.000/mês (16.69%).
+
+Pequenas/Médias Empresas (Fintechs): Apresentam uma distribuição mais forte em faixas intermediárias, com picos em de R$ 8.001/mês a R$ 12.000/mês (19.58%) e de R$ 4.001/mês a R$ 6.000/mês (15.69%).
+
+Isso indica que, em média, os bancos tendem a ter uma proporção maior de funcionários em faixas salariais superiores em comparação com as fintechs.
+
+
+* 3. Análise Salarial por Nível de Senioridade
+A investigação foi aprofundada para entender como a remuneração varia de acordo com o nível de senioridade.
+
+Salário do 3º Quartil (p75): Esta análise focou nos salários mais altos (o valor que 75% dos profissionais ganham a menos que ele), revelando o potencial de ganho em cada nível. O gráfico de barras comparativo permitiu visualizar o "teto" salarial mais comum para os talentos mais bem pagos em bancos e fintechs, sendo uma métrica importante para avaliar a competitividade na atração de profissionais sêniores.
+
+![image](https://github.com/user-attachments/assets/f5169625-67d5-4986-9b6b-8642dc77ddb5)
+
+
+Distribuição Salarial Completa (Boxplot): O boxplot ofereceu a visão mais completa da estrutura salarial, mostrando:
+
+![image](https://github.com/user-attachments/assets/d113d09c-f1f7-49fc-b632-bdc959eeeed5)
+
+A mediana (salário central).
+
+A dispersão dos salários (o tamanho da "caixa").
+
+A presença de outliers (salários muito acima do padrão).
+
+Essa visualização é fundamental para comparar não apenas os valores médios, but também a consistência e a amplitude salarial em cada nível de senioridade (Júnior, Pleno, Sênior e Liderança) entre os dois tipos de empresa.
+
+Em resumo, a análise exploratória do Eixo 1 transformou dados brutos de salário em insights acionáveis, mapeando as diferenças e semelhanças nas estruturas de remuneração entre bancos tradicionais e fintechs, tanto de forma geral quanto estratificada por ano e nível de senioridade.
 
 ---
 
