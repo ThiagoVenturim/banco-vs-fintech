@@ -1,22 +1,22 @@
-cff-version: 1.2.1
+cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- name-suffix: Editor
+  - name-suffix: Editor
     affiliation: "PUC Minas, Belo Horizonte, Minas Gerais, Brazil"
     family-names: "Gripp"
-    given-names: "Enzo Alves Barcelos Gripp"
+    given-names: "Enzo Alves Barcelos"
     email: "eabgripp@sga.pucminas.br"
-- name-suffix: Editor
+  - name-suffix: Editor
     affiliation: "PUC Minas, Belo Horizonte, Minas Gerais, Brazil"
     family-names: "Soares"
     given-names: "Pedro Dias"
     email: "pedro3soares@gmail.com"
-- name-suffix: Editor
+  - name-suffix: Editor
     affiliation: "PUC Minas, Belo Horizonte, Minas Gerais, Brazil"
-    family-names: "dos Santos"
-    given-names: "Thiago Domingos Venturim Ribeiro Dos Santos"
-    email: "thiagodomingosventutim@gmail.com)"
-  - name-suffix: Cordenador
+    family-names: "Ribeiro dos Santos"
+    given-names: "Thiago Domingos Venturim"
+    email: "thiagodomingosventutim@gmail.com"
+  - name-suffix: Coordenador
     affiliation: "PUC Minas, Belo Horizonte, Minas Gerais, Brazil"
     family-names: "Curto"
     given-names: "Hayala"
