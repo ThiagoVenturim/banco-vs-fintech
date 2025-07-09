@@ -192,6 +192,38 @@ oportuna, pois analisa o impacto da recente transição de mercado, fornecendo u
 
 ## Preparação dos dados:
 
+A fase de preparação dos dados neste projeto foi dividida em várias sub-etapas essenciais para transformar os dados brutos de diferentes anos em um conjunto de dados coeso e pronto para análise.
+
+1. Coleta e Integração Inicial dos Dados
+Importação das Bases de Dados: Foram importados três conjuntos de dados distintos, correspondentes às pesquisas State of Data Brazil dos anos de 2022, 2023 e 2024. Para cada ano, um DataFrame do pandas foi criado (df_2022, df_2023, df_2024).
+
+Adição de Rastreabilidade Temporal: Para permitir a diferenciação e a análise comparativa entre as pesquisas, uma nova coluna, ano_base, foi adicionada a cada DataFrame, contendo o ano correspondente da coleta dos dados.
+
+2. Limpeza e Padronização dos Dados (Data Cleaning)
+Padronização dos Nomes das Colunas: Uma etapa fundamental foi a padronização dos nomes das colunas em todas as três bases de dados. Foi criado um mapeamento com nomes simplificados e unificados (colunas_2022_simplificadas, colunas_2023_simplificadas, colunas_2024_simplificadas). Essa ação foi vital para:
+
+Harmonizar as variáveis entre os diferentes anos.
+
+Viabilizar a concatenação correta dos DataFrames.
+
+Assegurar a consistência semântica, mesmo com pequenas alterações nas perguntas da pesquisa ao longo do tempo.
+
+3. Construção do Conjunto de Dados Final (Data Construction)
+Junção das Bases de Dados: Após a padronização, os três DataFrames anuais foram unidos em um único DataFrame chamado data_completo utilizando a função pd.concat. Este processo resultou em um conjunto de dados consolidado com 14.781 registros e 427 colunas, pronto para análises temporais.
+
+Seleção de Dados Relevantes (Subset): Para focar a análise em um segmento de mercado específico, foi criado um subconjunto de dados (df_financeiro) contendo apenas os registros dos setores de 'Finanças ou Bancos' and 'Seguros ou Previdência'. Isso reduziu o escopo para 2.750 registros, permitindo uma análise mais aprofundada do setor financeiro.
+
+Verificação de Dados Ausentes: Foi realizada uma verificação de valores nulos na coluna numero_funcionarios_empresa do DataFrame df_financeiro, confirmando que não havia dados faltantes nesta variável específica, o que é importante para a etapa seguinte.
+
+4. Formatação e Geração de Novos Atributos (Feature Engineering)
+Criação de uma Variável Derivada: Um desafio identificado foi a ausência de uma distinção clara entre bancos tradicionais e fintechs na base de dados. Para contornar isso, foi criada uma nova variável categórica, arquétipo_tamanho, com base na hipótese de que o número de funcionários poderia servir como um critério de distinção:
+
+Grande Porte (Provável Banco): Empresas com mais de 1.000 funcionários.
+
+Pequeno/Médio Porte (Provável Fintech): Empresas com até 1.000 funcionários.
+
+Essa nova coluna permitiu a segmentação e a análise comparativa entre esses dois perfis de empresas dentro do setor financeiro.
+
 ---
 
 <div id='Análise_exploratórida_dos_dados'/>  
