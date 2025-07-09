@@ -3,8 +3,8 @@
 ---
 
 _**Integrantes:**_
-* Enzo Alves Barcelos Gripp, (9eabgripp@sga.pucminas.br)
-* Pedro Dias Soares, (pedro3soares@gmail.com)
+* Enzo Alves Barcelos Gripp, (eabgripp@sga.pucminas.br)
+* Pedro Dias Soares, (pedrosoares@gmail.com)
 * Thiago Domingos Venturim Ribeiro dos Santos, (thiagodomingosventutim@gmail.com)
 
 **Resumo:**
