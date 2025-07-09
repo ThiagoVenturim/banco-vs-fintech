@@ -1,14 +1,27 @@
-cff-version: 1.2.0
+cff-version: 1.2.1
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Santos"
-  given-names: "Thiago Domingos Venturim Ribeiro dos Santos"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "Challenge-State-of-Data-Brazil-2025"
+- name-suffix: Editor
+    affiliation: "PUC Minas, Belo Horizonte, Minas Gerais, Brazil"
+    family-names: "Gripp"
+    given-names: "Enzo Alves Barcelos Gripp"
+    email: "eabgripp@sga.pucminas.br"
+- name-suffix: Editor
+    affiliation: "PUC Minas, Belo Horizonte, Minas Gerais, Brazil"
+    family-names: "Soares"
+    given-names: "Pedro Dias"
+    email: "pedro3soares@gmail.com"
+- name-suffix: Editor
+    affiliation: "PUC Minas, Belo Horizonte, Minas Gerais, Brazil"
+    family-names: "dos Santos"
+    given-names: "Thiago Domingos Venturim Ribeiro Dos Santos"
+    email: "thiagodomingosventutim@gmail.com)"
+  - name-suffix: Cordenador
+    affiliation: "PUC Minas, Belo Horizonte, Minas Gerais, Brazil"
+    family-names: "Curto"
+    given-names: "Hayala"
+title: "banco-vs-fintech"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
 date-released: 2025-07-06
-url: "https://github.com/ThiagoVenturim/Challenge-State-of-Data-Brazil-2025"
+url: "https://github.com/ThiagoVenturim/banco-vs-fintech"
