@@ -181,7 +181,49 @@ Sua originalidade está na análise comparativa e evolutiva (2022–2024), que r
 <div id='Público_alvo'/>  
 
 ## Público_alvo
---------------
+
+
+O presente estudo destina-se a um conjunto diversificado de públicos, cujas atividades profissionais e interesses estratégicos convergem para a interseção entre os setores de tecnologia e finanças no Brasil. O público-alvo pode ser segmentado em grupos primários, que são os sujeitos diretos da análise, e em um grupo secundário, que constitui o ecossistema de suporte e análise de mercado.
+
+**Profissionais da Área de Dados**
+
+Este grupo representa o foco central da investigação, para o qual os resultados oferecem um panorama detalhado do campo de atuação.
+
+_Profissionais em atuação no setor financeiro_
+
+Para analistas, cientistas, engenheiros de dados e outros especialistas que já atuam em bancos e fintechs, o estudo fornece subsídios para:
+* Estruturar negociações de remuneração a partir de benchmarks salariais de mercado;
+* Fundamentar decisões de carreira, como a escolha ou a transição entre instituições financeiras tradicionais e empresas de tecnologia financeira (fintechs);
+* Direcionar o desenvolvimento de competências técnicas, com base nas tecnologias e ferramentas de maior relevância e adoção em cada segmento.
+
+_Profissionais em formação ou em transição de carreira_
+
+Para estudantes, recém-formados e profissionais que buscam ingressar na área de dados no setor financeiro, a pesquisa funciona como um referencial para:
+* Compreender o perfil de competências e as qualificações mais demandadas pelo mercado;
+* Analisar as faixas de remuneração de entrada e as perspectivas de progressão;
+* Avaliar as distintas culturas organizacionais e desafios inerentes a bancos e fintechs.
+
+**Organizações do Setor Financeiro**
+
+As instituições que protagonizam a transformação digital do setor são um público estratégico, para o qual a análise oferece inteligência competitiva.
+
+_Lideranças e gestores estratégicos_
+
+Para executivos como Chief Technology Officers (CTOs), Chief Data Officers (CDOs) e diretores de áreas de dados e inovação, o estudo apresenta-se como uma ferramenta para:
+* Realizar benchmarking de estratégias de tecnologia, remuneração e gestão de talentos;
+* Diagnosticar a maturidade da própria operação de dados em comparação com o mercado;
+* Informar o planejamento estratégico relacionado à infraestrutura tecnológica e à estruturação de equipes.
+
+_Setores de Recursos Humanos e Aquisição de Talentos_
+
+Para as equipes responsáveis pela gestão de pessoas, a pesquisa oferece um diagnóstico detalhado sobre o mercado de talentos, permitindo:
+* Estruturar políticas de remuneração e benefícios mais competitivas;
+* Otimizar os processos de recrutamento e seleção, alinhando as descrições de vagas às competências efetivamente valorizadas;
+* Desenvolver estratégias para a retenção de profissionais qualificados.
+
+_Ecossistema de Mercado e Acadêmico_
+
+De forma mais ampla, os resultados do estudo são de interesse para um conjunto de atores que analisam, regulam ou oferecem serviços ao setor. Este grupo engloba empresas de consultoria estratégica, provedores de tecnologia (especialmente de computação em nuvem), instituições de ensino superior e técnico, e a comunidade de dados em geral. Para estes, a pesquisa oferece subsídios empíricos para análises de mercado, desenvolvimento de produtos, adequação de matrizes curriculares e fomento a debates qualificados sobre a evolução do setor no país.
 
 ---
 
