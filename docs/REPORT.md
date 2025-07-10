@@ -260,7 +260,7 @@ Nota-se uma tendência geral em ambos os arquétipos de reduzir a proporção de
 
 ### Variação Ano a Ano: 
 
-A análise da variação percentual anual (: 2023 vs. 2022) revelou a dinâmica do mercado. Os gráficos mostraram quais faixas salariais tiveram o maior crescimento ou queda na representatividade de profissionais, indicando tendências como "achatamento" ou "valorização" de certos níveis de remuneração em bancos e Fintech's.
+A análise da variação percentual anual: (2023 vs. 2022) revelou a dinâmica do mercado. Os gráficos evidenciaram quais faixas salariais tiveram o maior crescimento ou queda na representatividade de profissionais, indicando tendências como “achatamento” ou “valorização” de certos níveis de remuneração em bancos e Fintech's.
 
 ![image](https://github.com/user-attachments/assets/d02acf95-76b6-45a5-9b80-1de3aec99439)
 
@@ -385,7 +385,8 @@ Metodologia: Como um passo preparatório para análises futuras, o conjunto de d
 
 Resultado: Foi criado um novo dataframe, df_lideres, contendo 460 gestores, de um total de 2.750 profissionais no setor financeiro.
 
-Essa segmentação é de grande valor estratégico, pois permite que as próximas análises comparem diretamente as ferramentas, desafios, salários e decisões tecnológicas do ponto de vista de quem toma as decisões versus a equipe técnica, oferecendo insights muito mais profundos sobre a governança de dados e a estratégia tecnológica nas organizações.
+Essa segmentação é de grande valor estratégico por permitir que as próximas análises comparem diretamente as ferramentas, desafios, salários e decisões tecnológicas do ponto de vista de quem toma as decisões em relação à equipe técnica, oferecendo insights muito mais profundos sobre a governança de dados e a estratégia tecnológica nas organizações.
+
 ---
 
 <div id='Indução_de_modelos'/>  
