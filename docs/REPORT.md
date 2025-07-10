@@ -143,7 +143,7 @@ finta
 
 ## Objetivo Geral:
 
-O presente estudo tem como objetivo central analisar comparativamente a evolução e as diferenças estruturais no perfil profissional, nas faixas de remuneração, nas tecnologias adotadas e nos desafios enfrentados por profissionais de dados atuantes nos ecossistemas da chamada "Fintechzação" (empresas de tecnologia financeira) e da "Bancarização" digitalizada (instituições financeiras tradicionais) no Brasil.
+O presente estudo visa analisar comparativamente a evolução e as diferenças estruturais no perfil profissional, nas faixas de remuneração, nas tecnologias adotadas e nos desafios enfrentados por profissionais de dados atuantes nos ecossistemas da chamada “Fintechzação” (empresas de tecnologia financeira) e da “Bancarização” digitalizada (instituições financeiras tradicionais) no Brasil.
 
 A partir de uma abordagem quantitativa e longitudinal, o estudo utilizará os microdados das pesquisas State of Data Brazil referentes aos anos de 2022, 2023 e 2024, visando fornecer um panorama fundamentado em evidências sobre o impacto dessas duas forças concorrentes — e cada vez mais convergentes — na dinâmica do mercado de trabalho em ciência de dados no setor financeiro.
 
