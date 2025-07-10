@@ -150,21 +150,21 @@ A partir de uma abordagem quantitativa e longitudinal, o estudo utilizará os mi
 ### Objetivos Específicos
 Para viabilizar a consecução do objetivo geral, serão perseguidos os seguintes objetivos específicos:
 
-* Analisar a evolução da remuneração
-  * Quantificar e comparar a mediana salarial dos profissionais de dados atuantes em bancos e Fintech's ao longo dos anos de 2022 a 2024.
-  *  Identificar se a diferença de remuneração entre os setores aumentou, reduziu ou se estabilizou, à luz das mudanças macroeconômicas e da maturação das estratégias digitais no período.
+  * Analisar a evolução da remuneração
+    * Quantificar e comparar a mediana salarial dos profissionais de dados atuantes em bancos e Fintech's ao longo dos anos de 2022 a 2024.
+    *  Identificar se a diferença de remuneração entre os setores aumentou, reduziu ou se estabilizou, à luz das mudanças macroeconômicas e da maturação das estratégias digitais no período.
 
-* Investigar a adoção tecnológica
-  * Mapear as tendências de uso dos principais provedores de nuvem (AWS, Azure e GCP) por setor.
-  * Verificar se as escolhas tecnológicas adotadas refletem diferentes níveis de maturidade, estratégias de escalabilidade, compliance e inovação entre bancos e Fintech's.
+  * Investigar a adoção tecnológica
+    * Mapear as tendências de uso dos principais provedores de nuvem (AWS, Azure e GCP) por setor.
+    * Verificar se as escolhas tecnológicas adotadas refletem diferentes níveis de maturidade, estratégias de escalabilidade, compliance e inovação entre bancos e Fintech's.
 
-* Comparar os desafios de liderança e gestão
-  * Identificar os principais desafios relatados por líderes e gestores de dados em ambos os setores.
-  * Analisar como esses desafios evoluíram no período e em que medida refletem características organizacionais distintas, como burocracia, escalabilidade ou transformação cultural.
+  * Comparar os desafios de liderança e gestão
+    * Identificar os principais desafios relatados por líderes e gestores de dados em ambos os setores.
+    * Analisar como esses desafios evoluíram no período e em que medida refletem características organizacionais distintas, como burocracia, escalabilidade ou transformação cultural.
 
-* Avaliar o impacto da transição de mercado (2023–2024)
-  * Investigar como a mudança do modelo de crescimento exponencial para uma lógica orientada à eficiência e rentabilidade (foco em ROI) afetou a atuação dos profissionais de dados.
-  *Analisar variações no perfil de contratação (com ênfase na senioridade), na valorização de competências técnicas, na percepção de estabilidade profissional e nas estratégias de carreira adotadas pelos profissionais em bancos e Fintech's.
+  * Avaliar o impacto da transição de mercado (2023–2024)
+    * Investigar como a mudança do modelo de crescimento exponencial para uma lógica orientada à eficiência e rentabilidade (foco em ROI) afetou a atuação dos profissionais de dados.
+    *Analisar variações no perfil de contratação (com ênfase na senioridade), na valorização de competências técnicas, na percepção de estabilidade profissional e nas estratégias de carreira adotadas pelos profissionais em bancos e Fintech's.
 
 ---
 
