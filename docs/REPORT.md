@@ -13,33 +13,33 @@ _**Integrantes:**_
 
 ## Sumario:
 
-[1. Introdução](#Introdução)   
+[1. INTRODUÇÂO](#Introdução)   
 
-[2. Contextualização](#Contextualização)
+[2. CONTEXTUALIZAÇÃO](#Contextualização)
 
-[3. Problema](#Problema)
+[3. PROBLEMA](#Problema)
 
-[4. Pergunta Direcionada a Dados](#Pergunta_Direcionada_a_Dados)
+[4. PERGUNTA DIRECIONADA A DADOS](#Pergunta_Direcionada_a_Dados)
 
-[5. Objetivos](#Objetivo)
+[5. OBJETIVOS](#Objetivo)
 
-[6. Justificativas ](#Justificativas)
+[6. JUSTIFICATIVAS](#Justificativas)
 
-[7. Público alvo](#Público_alvo)
+[7. PÚBLICO ALVO](#Público_alvo)
 
-[9. Preparação dos dados](#Preparação_dos_dados)
+[9. PREPARAÇÂO DOS DADOS](#Preparação_dos_dados)
 
-[8. Análise exploratórida dos dados](#Análise_exploratórida_dos_dados)
+[8. ANÁLISE EXPLORATóRIDA DOS DADOS](#Análise_exploratórida_dos_dados)
 
-[10. Indução do modelo](#Indução_de_modelos)
+[10. INDUÇÃO DO MODELO](#Indução_de_modelos)
 
-[11. Resultados ](#Resultados)  
+[11. RESULTADOS](#Resultados)  
 
-[13. Conclusão ](#Conclusão)
+[13. CONCLUSÃO](#Conclusão)
 
-[14. Referências ](#REFERÊNCIAS)
+[14. REFERÊNCIAS](#REFERÊNCIAS)
 
-[15. Apêndices](#APÊNDICES)
+[15. APÊNDICES](#APÊNDICES)
 
 ---
 
