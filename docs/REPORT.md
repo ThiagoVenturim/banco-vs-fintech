@@ -13,7 +13,7 @@ _**Integrantes:**_
 
 ## Sumario:
 
-[1. INTRODUÇÂO](#Introdução)   
+[1. INTRODUÇÃO](#Introdução)   
 
 [2. CONTEXTUALIZAÇÃO](#Contextualização)
 
@@ -29,7 +29,7 @@ _**Integrantes:**_
 
 [9. PREPARAÇÂO DOS DADOS](#Preparação_dos_dados)
 
-[8. ANÁLISE EXPLORATóRIDA DOS DADOS](#Análise_exploratórida_dos_dados)
+[8. ANÁLISE EXPLORATÓRIDA DOS DADOS](#Análise_exploratórida_dos_dados)
 
 [10. INDUÇÃO DO MODELO](#Indução_de_modelos)
 
