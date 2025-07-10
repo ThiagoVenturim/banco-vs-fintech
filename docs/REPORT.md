@@ -85,7 +85,7 @@ Com base nessas bases, nossa investigação busca mapear a evolução das carrei
 
 ## Problema:
 
-O setor financeiro brasileiro está em meio a uma revolução digital, marcada pela disputa acirrada entre a agilidade das fintechs ("Fintechzação") e a escala dos bancos tradicionais ("Bancarização").
+O setor financeiro brasileiro está em meio a uma revolução digital, marcada pela disputa acirrada entre a agilidade das Fintech's (“Fintechzação”) e a escala dos bancos tradicionais (“Bancarização”).
 
 O _problema_ é que, embora essa transformação seja visível do ponto de vista do mercado e do consumidor, seu impacto real sobre o capital humano que a executa — os profissionais de dados — permanece amplamente desconhecido e sem dados estruturados.
 
