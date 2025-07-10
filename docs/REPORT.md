@@ -172,12 +172,9 @@ Para viabilizar a consecução do objetivo geral, serão perseguidos os seguinte
   
 ## Justificativas:
 
-justificativa deste projeto se baseia em sua alta relevância estratégica e originalidade. Para os profissionais de dados, a análise funcionará como um guia de carreira 
-aseado em dados, auxiliando em decisões sobre salários, habilidades e qual setor seguir. Para as empresas, fornecerá um diagnóstico competitivo sobre o mercado de talentos,
-essencial para estratégias de contratação e retenção.
+Justificativa deste projeto se baseia em sua alta relevância estratégica e originalidade. Para os profissionais de dados, a análise funcionará como um guia de carreira baseado em dados, auxiliando em decisões sobre salários, habilidades e qual setor seguir. Para as empresas, fornecerá um diagnóstico competitivo sobre o mercado de talentos, essencial para estratégias de contratação e retenção.
 
-Sua originalidade está na análise comparativa e evolutiva (2022-2024), que revela tendências reais ao invés de um retrato estático. Por fim, a pesquisa é extremamente
-oportuna, pois analisa o impacto da recente transição de mercado, fornecendo um mapa atualizado e necessário para toda a comunidade de dados brasileira.
+Sua originalidade está na análise comparativa e evolutiva (2022–2024), que revela tendências reais ao invés de um retrato estático. Por fim, a pesquisa é extremamente oportuna, ao analisar o impacto da recente transição de mercado, fornecendo um mapa atualizado e necessário para toda a comunidade de dados brasileira.
 
 ---
 
