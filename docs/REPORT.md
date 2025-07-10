@@ -65,7 +65,7 @@ Convidamos a banca avaliadora e a comunidade a explorar conosco esta jornada ana
 
 Nos últimos dez anos, o Brasil vivencia um verdadeiro ponto de inflexão em seu sistema financeiro — uma transformação profunda impulsionada por avanços tecnológicos e por reformas regulatórias estratégicas. Durante décadas, a “Bancarização” foi a principal métrica de inclusão financeira no país, com foco em integrar a população ao sistema bancário tradicional por meio da expansão de agências, contas correntes e produtos convencionais. No entanto, um novo fenômeno emergiu e passou a redefinir as regras do jogo: a “Fintechzação”.
 
-O lançamento do PIX, em 2020, pelo Banco Central, foi um divisor de águas. Essa tecnologia de pagamentos instantâneos não somente democratizou o acesso a transações financeiras, como também nivelou o campo competitivo. Fintechs — com seu DNA digital, foco em experiência do usuário e cultura orientada por dados — ganharam protagonismo e passaram a competir diretamente com bancos tradicionais em escala nacional.
+O lançamento do PIX, em 2020, pelo Banco Central, foi um divisor de águas. Essa tecnologia de pagamentos instantâneos não somente democratizou o acesso a transações financeiras, como também nivelou o campo competitivo. Fintech's — com seu DNA digital, foco em experiência do usuário e cultura orientada por dados — ganharam protagonismo e passaram a competir diretamente com bancos tradicionais em escala nacional.
 
 Esse novo cenário desencadeou uma dinâmica inédita:
 
@@ -95,47 +95,47 @@ O _problema_ é que, embora essa transformação seja visível do ponto de vista
 
 ## Perguntas Direcionada a Dados:
 
-A partir das bases da pesquisa State of Data Brazil dos anos 2022, 2023 e 2024, estruturamos esta análise com base em perguntas orientadas a dados, cada uma guiada por hipóteses que serão validadas ou refutadas com evidências quantitativas. O objetivo é compreender como a disputa entre Bancos Tradicionais e Fintechs tem moldado o cenário profissional da área de dados no Brasil — em termos de remuneração, infraestrutura tecnológica, desafios de liderança e transformações no perfil dos profissionais.
+A partir das bases da pesquisa State of Data Brazil dos anos 2022, 2023 e 2024, estruturamos esta análise com base em perguntas orientadas a dados, cada uma guiada por hipóteses que serão validadas ou refutadas com evidências quantitativas. O objetivo é compreender como a disputa entre Bancos Tradicionais e Fintech's molda o cenário profissional da área de dados no Brasil — em termos de remuneração, infraestrutura tecnológica, desafios de liderança e transformações no perfil dos profissionais.
 
 **Eixo 1 — Remuneração e Valorização Profissional**
 
 * Pergunta-chave:
-Como a mediana salarial dos profissionais de dados evoluiu comparativamente entre Bancos Tradicionais (associados à "Bancarização") e Fintechs (associadas à "Fintechzação") entre 2022 e 2024?
+  Como a mediana salarial dos profissionais de dados evoluiu comparativamente entre Bancos Tradicionais (associados à "Bancarização") e Fintech's (associadas à "Fintechzação") entre 2022 e 2024?
 
 * Hipótese:
-Em 2022, impulsionadas pela euforia do ecossistema de startups e pela ampla disponibilidade de capital de risco, as fintechs tenderam a oferecer salários mais agressivos para atrair talentos qualificados. Acreditamos que, com a virada de mercado observada a partir de 2023 — marcada pela maior exigência de rentabilidade e pelo enxugamento de quadros —, essa vantagem salarial foi reduzida. Nossa hipótese é que, neste novo cenário, os bancos tradicionais reagiram, ajustando suas faixas salariais para atrair e reter profissionais sêniores e estratégicos, promovendo uma convergência salarial entre os dois setores.
+  Em 2022, impulsionadas pela euforia do ecossistema de startups e pela ampla disponibilidade de capital de risco, as Fintech's tenderam a oferecer salários mais agressivos para atrair talentos qualificados. Acreditamos que, com a virada de mercado observada a partir de 2023 — marcada pela maior exigência de rentabilidade e pelo enxugamento de quadros —, essa vantagem salarial foi reduzida. Nossa hipótese é que, neste novo cenário, os bancos tradicionais reagiram, ajustando suas faixas salariais para atrair e reter profissionais sêniores e estratégicos, promovendo uma convergência salarial entre os dois setores.
 
 **Eixo 2 — Adoção Tecnológica e Estratégias de Infraestrutura**
 
 * Pergunta-chave:
-Qual foi a evolução na preferência por provedores de nuvem (AWS, Azure, GCP) entre Bancos e Fintechs, e como essa escolha reflete suas respectivas estratégias de mercado e posicionamento tecnológico?
+  Qual foi a evolução na preferência por provedores de nuvem (AWS, Azure, GCP) entre Bancos e Fintech's, e como essa escolha reflete suas respectivas estratégias de mercado e posicionamento tecnológico?
 
 * Hipótese:
-Apesar da imagem tradicionalmente associada à rigidez dos bancos, nossa hipótese é que essas instituições aumentaram a adoção da AWS para iniciativas voltadas à inovação, dados e transformação digital. Por outro lado, as fintechs, à medida que amadurecem e passam a lidar com demandas de escalabilidade e custos, migraram para ambientes multicloud, ampliando sua adoção de Azure (pela integração com serviços corporativos) e GCP (pela eficiência em Big Data e Machine Learning). A distribuição por provedor, portanto, poderá revelar indícios estratégicos da maturidade tecnológica de cada segmento.
+  Apesar da imagem tradicionalmente associada à rigidez dos bancos, nossa hipótese é que essas instituições aumentaram a adoção da AWS para iniciativas voltadas à inovação, dados e transformação digital. Por outro lado, as Fintech's, à medida que amadurecem e lidam com demandas de escalabilidade e custos, migraram para ambientes multicloud, ampliando sua adoção de Azure (pela integração com serviços corporativos) e GCP (pela eficiência em Big Data e Machine Learning). A distribuição por provedor, portanto, poderá revelar indícios estratégicos da maturidade tecnológica de cada segmento.
 
 **Eixo 3 — Desafios de Liderança e Gestão**
-
+finta
 * Pergunta-chave:
-Quais foram os principais desafios de gestão relatados por líderes de dados em Bancos e Fintechs entre 2022 e 2024, e como essas dificuldades se diferenciaram entre os dois modelos de organização?
+  Quais foram os principais desafios de gestão relatados por líderes de dados em Bancos e Fintech's entre 2022 e 2024, e como essas dificuldades se diferenciaram entre os dois modelos de organização?
 
 * Hipótese:
-Esperamos identificar padrões distintos de desafios organizacionais. A hipótese é que líderes em fintechs reportaram mais frequentemente questões relacionadas à escalabilidade de times, gestão do crescimento acelerado, e estruturação de processos em ambientes ainda em consolidação. Já os líderes de bancos devem ter apontado como principais obstáculos a mudança de cultura organizacional, a modernização de sistemas legados, e as restrições impostas pela burocracia interna. Essa diferença reflete as prioridades e maturidades distintas desses ambientes no enfrentamento de transformações digitais.
+  Esperamos identificar padrões distintos de desafios organizacionais. A hipótese é que líderes em Fintech's reportaram mais frequentemente questões relacionadas à escalabilidade de times, gestão do crescimento acelerado e estruturação de processos em ambientes ainda em consolidação. Já os líderes de bancos devem ter apontado como principais obstáculos a mudança de cultura organizacional, a modernização de sistemas legados e as restrições impostas pela burocracia interna. Essa diferença reflete as prioridades e maturidades distintas desses ambientes no enfrentamento de transformações digitais.
 
 **Eixo 4 — Impacto da Transição de Mercado na Atuação Profissional**
 
 * Pergunta-chave Principal:
-Como a transição do mercado entre 2023 e 2024 — de um ciclo de crescimento acelerado para um cenário de foco em eficiência e lucratividade — impactou a atuação dos profissionais de dados no setor financeiro?
+  Como a transição do mercado entre 2023 e 2024 — de um ciclo de crescimento acelerado para um cenário de foco em eficiência e lucratividade — impactou a atuação dos profissionais de dados no setor financeiro?
 
 * Hipótese Geral:
-Acreditamos que essa inflexão no ambiente macroeconômico e no setor de tecnologia, marcada por cortes de investimento, reestruturações e maior pressão por retorno financeiro, alterou profundamente o perfil, as ferramentas e as expectativas dos profissionais de dados no setor bancário e nas fintechs. Para validar essa hipótese, exploraremos três subdimensões:
+  Acreditamos que essa inflexão no ambiente macroeconômico e no setor de tecnologia, marcada por cortes de investimento, reestruturações e maior pressão por retorno financeiro, alterou profundamente o perfil, as ferramentas e as expectativas dos profissionais de dados no setor bancário e nas Fintech's. Para validar essa hipótese, exploraremos três subdimensões:
 
 **Eixo 5 — Perfil Profissional dos Cientistas de Dados no Setor Financeiro**
 
 * Pergunta-chave Principal:
-Como evoluiu o perfil dos profissionais de dados atuando em bancos e fintechs entre 2022 e 2024, considerando aspectos como formação, senioridade, áreas de atuação e competências técnicas?
+  Como evoluiu o perfil dos profissionais de dados atuando em bancos e Fintech's entre 2022 e 2024, considerando aspectos como formação, senioridade, áreas de atuação e competências técnicas?
 
 * Hipótese Geral:
-Nos últimos três anos, o setor financeiro passou por transformações estruturais que impactaram diretamente a composição e as exigências em torno dos profissionais de dados. Nossa hipótese é que houve uma especialização progressiva, com perfis mais técnicos, multidisciplinares e experientes ganhando protagonismo, especialmente em áreas críticas como Machine Learning, engenharia de dados e produtização de modelos. Essa tendência teria se acentuado nas fintechs até 2022, mas passou a ser incorporada também pelos bancos a partir de 2023, com a aceleração da digitalização.
+  Nos últimos três anos, o setor financeiro passou por transformações estruturais que impactaram diretamente a composição e as exigências em torno dos profissionais de dados. Nossa hipótese é que houve uma especialização progressiva, com perfis mais técnicos, multidisciplinares e experientes ganhando protagonismo, especialmente em áreas críticas como Machine Learning, engenharia de dados e produtização de modelos. Essa tendência teria se acentuado nas Fintech's até 2022, mas passou a ser incorporada também pelos bancos a partir de 2023, com a aceleração da digitalização.
 
 ---
 
@@ -151,12 +151,12 @@ A partir de uma abordagem quantitativa e longitudinal, o estudo utilizará os mi
 Para viabilizar a consecução do objetivo geral, serão perseguidos os seguintes objetivos específicos:
 
 * Analisar a evolução da remuneração
-  * Quantificar e comparar a mediana salarial dos profissionais de dados atuantes em bancos e fintechs ao longo dos anos de 2022 a 2024.
+  * Quantificar e comparar a mediana salarial dos profissionais de dados atuantes em bancos e Fintech's ao longo dos anos de 2022 a 2024.
   *  Identificar se a diferença de remuneração entre os setores aumentou, reduziu ou se estabilizou, à luz das mudanças macroeconômicas e da maturação das estratégias digitais no período.
 
 * Investigar a adoção tecnológica
   * Mapear as tendências de uso dos principais provedores de nuvem (AWS, Azure e GCP) por setor.
-  * Verificar se as escolhas tecnológicas adotadas refletem diferentes níveis de maturidade, estratégias de escalabilidade, compliance e inovação entre bancos e fintechs.
+  * Verificar se as escolhas tecnológicas adotadas refletem diferentes níveis de maturidade, estratégias de escalabilidade, compliance e inovação entre bancos e Fintech's.
 
 * Comparar os desafios de liderança e gestão
   * Identificar os principais desafios relatados por líderes e gestores de dados em ambos os setores.
@@ -164,7 +164,7 @@ Para viabilizar a consecução do objetivo geral, serão perseguidos os seguinte
 
 * Avaliar o impacto da transição de mercado (2023–2024)
   * Investigar como a mudança do modelo de crescimento exponencial para uma lógica orientada à eficiência e rentabilidade (foco em ROI) afetou a atuação dos profissionais de dados.
-  *Analisar variações no perfil de contratação (com ênfase na senioridade), na valorização de competências técnicas, na percepção de estabilidade profissional e nas estratégias de carreira adotadas pelos profissionais em bancos e fintechs.
+  *Analisar variações no perfil de contratação (com ênfase na senioridade), na valorização de competências técnicas, na percepção de estabilidade profissional e nas estratégias de carreira adotadas pelos profissionais em bancos e Fintech's.
 
 ---
 
@@ -215,7 +215,7 @@ Seleção de Dados Relevantes (Subset): Para focar a análise em um segmento de 
 Verificação de Dados Ausentes: Foi realizada uma verificação de valores nulos na coluna numero_funcionarios_empresa do DataFrame df_financeiro, confirmando que não havia dados faltantes nesta variável específica, o que é importante para a etapa seguinte.
 
 4. Formatação e Geração de Novos Atributos (Feature Engineering)
-Criação de uma Variável Derivada: Um desafio identificado foi a ausência de uma distinção clara entre bancos tradicionais e fintechs na base de dados. Para contornar isso, foi criada uma nova variável categórica, arquétipo_tamanho, com base na hipótese de que o número de funcionários poderia servir como um critério de distinção:
+Criação de uma Variável Derivada: Um desafio identificado foi a ausência de uma distinção clara entre bancos tradicionais e Fintech's na base de dados. Para contornar isso, foi criada uma nova variável categórica, arquétipo_tamanho, com base na hipótese de que o número de funcionários poderia servir como um critério de distinção:
 
 Grande Porte (Provável Banco): Empresas com mais de 1.000 funcionários.
 
@@ -231,8 +231,8 @@ Essa nova coluna permitiu a segmentação e a análise comparativa entre esses d
 
 ### Eixo 1: Remuneração e Valorização Profissional.
 
-Análise Exploratória: Remuneração no Setor Financeiro (Bancos vs. Fintechs)
-Após a preparação dos dados, a análise exploratória foi iniciada para extrair insights sobre as dinâmicas de remuneração. O foco foi comparar empresas de grande porte (assumidas como bancos tradicionais) e de pequeno/médio porte (assumidas como fintechs) no setor financeiro brasileiro entre 2022 e 2024.
+Análise Exploratória: Remuneração no Setor Financeiro (Bancos vs. Fintech's)
+Após a preparação dos dados, a análise exploratória foi iniciada para extrair insights sobre as dinâmicas de remuneração. O foco foi comparar empresas de grande porte (assumidas como bancos tradicionais) e de pequeno/médio porte (assumidas como Fintech's) no setor financeiro brasileiro entre 2022 e 2024.
 
 * 1. Transformação de Dados para Análise Salarial
 Para viabilizar a análise quantitativa, a variável categórica faixa_salarial foi transformada em formatos mais adequados:
@@ -254,7 +254,7 @@ Os gráficos comparativos anuais mostraram a porcentagem de profissionais em cad
 
 No grafo longo dos três anos, os bancos mantiveram sua liderança na concentração de profissionais na faixa de R$ 8k-12k.
 
-* As fintechs, por outro lado, mostram um fortalecimento gradual em faixas salariais mais altas, diminuindo a diferença em relação aos bancos, especialmente na faixa de R$ 12k-16k em 2024.
+* As Fintech's, por outro lado, mostram um fortalecimento gradual em faixas salariais mais altas, diminuindo a diferença em relação aos bancos, especialmente na faixa de R$ 12k-16k em 2024.
 
 Nota-se uma tendência geral em ambos os arquétipos de reduzir a proporção de profissionais nas faixas mais baixas (abaixo de R$ 4.000), sugerindo uma maior senioridade do mercado ou uma valorização geral dos salários de entrada.
 
@@ -262,18 +262,18 @@ Nota-se uma tendência geral em ambos os arquétipos de reduzir a proporção de
 
 ### Variação Ano a Ano: 
 
-A análise da variação percentual anual (: 2023 vs. 2022) revelou a dinâmica do mercado. Os gráficos mostraram quais faixas salariais tiveram o maior crescimento ou queda na representatividade de profissionais, indicando tendências como "achatamento" ou "valorização" de certos níveis de remuneração em bancos e fintechs.
+A análise da variação percentual anual (: 2023 vs. 2022) revelou a dinâmica do mercado. Os gráficos mostraram quais faixas salariais tiveram o maior crescimento ou queda na representatividade de profissionais, indicando tendências como "achatamento" ou "valorização" de certos níveis de remuneração em bancos e Fintech's.
 
 ![image](https://github.com/user-attachments/assets/d02acf95-76b6-45a5-9b80-1de3aec99439)
 
 **Analise dos Resultados**
 
 
-* Mudanças em 2023: As fintechs apresentaram um crescimento percentual expressivo na faixa de R$ 30.001 a R$ 40.000 (+213%), indicando um forte movimento para atrair talentos muito caros.
+* Mudanças em 2023: As Fintech's apresentaram um crescimento percentual expressivo na faixa de R$ 30.001 a R$ 40.000 (+213%), indicando um forte movimento para atrair talentos muito caros.
 
-* Mudanças em 2024: A tendência se repetiu, com as fintechs novamente mostrando o maior crescimento na faixa de R$ 30.001 a R$ 40.000 (+120%). Os bancos, por sua vez, tiveram seu maior pico de crescimento na faixa de R$ 25.001 a R$ 30.000 (+70%).
+* Mudanças em 2024: A tendência se repetiu, com as Fintech's novamente mostrando o maior crescimento na faixa de R$ 30.001 a R$ 40.000 (+120%). Os bancos, por sua vez, tiveram seu maior pico de crescimento na faixa de R$ 25.001 a R$ 30.000 (+70%).
 
-_Conclusão Principal:_ As fintechs demonstram ser mais ágeis e agressivas em suas políticas de remuneração, especialmente para atrair e reter talentos de ponta com salários muito elevados. Os bancos, embora mais estáveis, também mostram um esforço claro para valorizar posições de alta senioridade.
+_Conclusão Principal:_ As Fintech's demonstram ser mais ágeis e agressivas em suas políticas de remuneração, especialmente para atrair e reter talentos de ponta com salários muito elevados. Os bancos, embora mais estáveis, também mostram um esforço claro para valorizar posições de alta senioridade.
 
 
 
@@ -285,9 +285,9 @@ Ao calcular a média da distribuição dos três anos, foi possível visualizar 
 
 * Grandes Empresas (Bancos): Concentram a maior parte de seus profissionais nas faixas mais altas, especialmente de R$ 8.001/mês a R$ 12.000/mês (25.68%) e de R$ 12.001/mês a R$ 16.000/mês (16.69%).
 
-* Pequenas/Médias Empresas (Fintechs): Apresentam uma distribuição mais forte em faixas intermediárias, com picos em de R$ 8.001/mês a R$ 12.000/mês (19.58%) e de R$ 4.001/mês a R$ 6.000/mês (15.69%).
+* Pequenas/Médias Empresas (Fintech's): Apresentam uma distribuição mais forte em faixas intermediárias, com picos em de R$ 8.001/mês a R$ 12.000/mês (19.58%) e de R$ 4.001/mês a R$ 6.000/mês (15.69%).
 
-Isso indica que, em média, os bancos tendem a ter uma proporção maior de funcionários em faixas salariais superiores em comparação com as fintechs.
+Isso indica que, em média, os bancos tendem a ter uma proporção maior de funcionários em faixas salariais superiores em comparação com as Fintech's.
 
 
 * 3. Análise Salarial por Nível de Senioridade
@@ -295,7 +295,7 @@ A investigação foi aprofundada para entender como a remuneração varia de aco
 
 ### Salário do 3º Quartil (p75): 
 
-Esta análise focou nos salários mais altos (o valor que 75% dos profissionais ganham a menos que ele), revelando o potencial de ganho em cada nível. O gráfico de barras comparativo permitiu visualizar o "teto" salarial mais comum para os talentos mais bem pagos em bancos e fintechs, sendo uma métrica importante para avaliar a competitividade na atração de profissionais sêniores.
+Esta análise focou nos salários mais altos (o valor que 75% dos profissionais ganham a menos que ele), revelando o potencial de ganho em cada nível. O gráfico de barras comparativo permitiu visualizar o "teto" salarial mais comum para os talentos mais bem pagos em bancos e Fintech's, sendo uma métrica importante para avaliar a competitividade na atração de profissionais sêniores.
 
 ![image](https://github.com/user-attachments/assets/f5169625-67d5-4986-9b6b-8642dc77ddb5)
 
@@ -304,13 +304,13 @@ Esta análise focou nos salários mais altos (o valor que 75% dos profissionais 
 
 A análise do "Salário do 3º Quartil (p75)" revela o potencial de ganho para os profissionais de melhor desempenho em cada nível:
 
-* Nível Júnior: Os grandes bancos oferecem um teto salarial maior (R$ 7.000) em comparação com as fintechs (R$ 5.000).
+* Nível Júnior: Os grandes bancos oferecem um teto salarial maior (R$ 7.000) em comparação com as Fintech's (R$ 5.000).
 
 * Nível Pleno: O potencial de ganho é idêntico e altamente competitivo, com ambos os setores oferecendo um teto de R$ 10.000.
 
-* Nível Sênior: A situação se inverte drasticamente. As fintechs oferecem um potencial de ganho significativamente maior para seus talentos sêniores de ponta (R$ 18.000) em comparação com os grandes bancos (R$ 14.000).
+* Nível Sênior: A situação se inverte drasticamente. As Fintech's oferecem um potencial de ganho significativamente maior para seus talentos sêniores de ponta (R$ 18.000) em comparação com os grandes bancos (R$ 14.000).
 
-_Conclusão Principal:_ Enquanto os bancos podem ser mais atraentes para o início de carreira (Júnior), as fintechs se destacam por oferecer uma remuneração superior e maior potencial de crescimento para profissionais de nível Sênior.
+_Conclusão Principal:_ Enquanto os bancos podem ser mais atraentes para o início de carreira (Júnior), as Fintech's se destacam por oferecer uma remuneração superior e maior potencial de crescimento para profissionais de nível Sênior.
 
 
 Resumo Geral do Eixo 1
@@ -334,17 +334,17 @@ O gráfico de "Perfil Médio de Distribuição Salarial" consolida os dados de 2
 
 * Grandes Empresas (Bancos): A maior concentração de profissionais está na faixa de R$ 8.001 a R$ 12.000 (25,7%), com uma forte presença também na faixa de R$ 6.001 a R$ 8.000 (16,9%) e R$ 12.001 a R$ 16.000 (16,7%). Isso indica uma estrutura onde a maioria dos profissionais já se encontra em patamares salariais intermediários para altos.
 
-* Pequeno/Médio Porte (Fintechs): A distribuição é mais espalhada nas faixas intermediárias. Embora o pico também seja em R$ 8.001 a R$ 12.000 (19,6%), há uma proporção maior de funcionários em faixas como R$ 4.001 a R$ 6.000 (15,7%) em comparação com os bancos.
+* Pequeno/Médio Porte (Fintech's): A distribuição é mais espalhada nas faixas intermediárias. Embora o pico também seja em R$ 8.001 a R$ 12.000 (19,6%), há uma proporção maior de funcionários em faixas como R$ 4.001 a R$ 6.000 (15,7%) em comparação com os bancos.
 
-Conclusão Principal: Em média, os grandes bancos possuem uma força de trabalho mais concentrada em faixas salariais superiores quando comparados às fintechs.
+Conclusão Principal: Em média, os grandes bancos possuem uma força de trabalho mais concentrada em faixas salariais superiores quando comparados às Fintech's.
 
 
 
-Em resumo, a análise exploratória do Eixo 1 transformou dados brutos de salário em insights acionáveis, mapeando as diferenças e semelhanças nas estruturas de remuneração entre bancos tradicionais e fintechs, tanto de forma geral quanto estratificada por ano e nível de senioridade.
+Em resumo, a análise exploratória do Eixo 1 transformou dados brutos de salário em insights acionáveis, mapeando as diferenças e semelhanças nas estruturas de remuneração entre bancos tradicionais e Fintech's, tanto de forma geral quanto estratificada por ano e nível de senioridade.
  
  ### Eixo 2 — Adoção Tecnológica e Estratégias de Infraestrutura
  
-Neste eixo, a análise se aprofunda na infraestrutura tecnológica, investigando como bancos e fintechs adotam plataformas de nuvem. O objetivo é medir a maturidade digital, a evolução da modernização e as estratégias de nuvem (incluindo multicloud e a persistência de sistemas legados on-premise).
+Neste eixo, a análise se aprofunda na infraestrutura tecnológica, investigando como bancos e Fintech's adotam plataformas de nuvem. O objetivo é medir a maturidade digital, a evolução da modernização e as estratégias de nuvem (incluindo multicloud e a persistência de sistemas legados on-premise).
 
 * 1. Taxa de Adoção por Plataforma (AWS, Azure, GCP, On-Premise)
 
@@ -367,7 +367,7 @@ AWS e Azure como Líderes: Há uma disputa clara pela liderança entre AWS e Azu
 
 Anomalia em 2023: Os dados de 2023 mostram uma queda abrupta na adoção de AWS e um pico massivo na de Azure, especialmente em bancos (64%). Isso pode indicar uma mudança real no mercado naquele ano ou, mais provavelmente, uma alteração na formulação da pergunta da pesquisa, o que pode ter influenciado as respostas. Essa volatilidade sugere cautela ao comparar diretamente as taxas de adoção de plataformas individuais ano a ano.
 
-Adoção de GCP: O Google Cloud Platform (GCP) consistentemente apresenta uma maior taxa de adoção em fintechs do que em bancos, sugerindo que pode ser uma opção preferencial para empresas mais novas e ágeis.
+Adoção de GCP: O Google Cloud Platform (GCP) consistentemente apresenta uma maior taxa de adoção em Fintech's do que em bancos, sugerindo que pode ser uma opção preferencial para empresas mais novas e ágeis.
 
 Sistemas On-Premise: A presença de infraestrutura on-premise diminuiu ligeiramente nos bancos (de 15.4% em 2023 para 11.3% em 2024), indicando um lento, mas contínuo, processo de migração para a nuvem.
 
@@ -377,7 +377,7 @@ Sistemas On-Premise: A presença de infraestrutura on-premise diminuiu ligeirame
 
 Metodologia: Foi criada uma métrica para identificar a adoção de uma estratégia multicloud, considerando como tal os profissionais que utilizam duas ou mais das três principais plataformas (AWS, Azure, GCP). Essa abordagem é estratégica para evitar dependência de um único fornecedor (vendor lock-in) e otimizar custos.
 
-Resultados e Interpretação: O gráfico de linha sobre a adoção multicloud mostra uma tendência mais estável e clara. Ele mede a maturidade estratégica em vez da preferência por uma única plataforma. A visualização gerada permite concluir qual dos arquétipos (bancos ou fintechs) está avançando mais rapidamente na adoção de uma infraestrutura de nuvem diversificada e resiliente. Tipicamente, espera-se um crescimento contínuo nesta métrica para ambos os segmentos.
+Resultados e Interpretação: O gráfico de linha sobre a adoção multicloud mostra uma tendência mais estável e clara. Ele mede a maturidade estratégica em vez da preferência por uma única plataforma. A visualização gerada permite concluir qual dos arquétipos (bancos ou Fintech's) está avançando mais rapidamente na adoção de uma infraestrutura de nuvem diversificada e resiliente. Tipicamente, espera-se um crescimento contínuo nesta métrica para ambos os segmentos.
 
 * 3. Segmentação de Perfis de Liderança
  
@@ -422,13 +422,13 @@ Essa segmentação é de grande valor estratégico, pois permite que as próxima
 
 **Pesquisa:**
 
-[1] Veja: Número de fintechs no Brasil cresceu 77% desde 2020, segundo levantamento  Disponível em:https://veja.abril.com.br/coluna/radar-economico/numero-de-fintechs-no-brasil-cresceu-77-desde-2020-segundo-levantamento. Acesso em: 07 jul. 2025.
+[1] Veja: Número de Fintech's no Brasil cresceu 77% desde 2020, segundo levantamento  Disponível em:https://veja.abril.com.br/coluna/radar-economico/numero-de-Fintech's-no-brasil-cresceu-77-desde-2020-segundo-levantamento. Acesso em: 07 jul. 2025.
 
-[2] Banco Central do Brasil: Fintechs . Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/fintechs. Acesso em: 07 jul. 2025.
+[2] Banco Central do Brasil: Fintech's . Disponível em: https://www.bcb.gov.br/estabilidadefinanceira/Fintech's. Acesso em: 07 jul. 2025.
 
 [3] BBCB: Banking on the future.  Disponível em: https://www.bbc.com/storyworks/control-to-customise/banking-on-the-future. Acesso em: 07 jul. 2025.
 
-[4] Fluid Blog Dock: Fintechzação: como empresas estão se tornando fintechs e transformando o mercado de banking e pagamentos.  Disponível em: https://dock.tech/fluid/blog/financeiro/fintechzacao/#:~:text=A%20fintechza%C3%A7%C3%A3o%20envolve%20a%20incorpora%C3%A7%C3%A3o,investimentos%20diretamente%20aos%20seus%20clientes. Acesso em: 07 jul. 2025.
+[4] Fluid Blog Dock: Fintechzação: como empresas estão se tornando Fintech's e transformando o mercado de banking e pagamentos.  Disponível em: https://dock.tech/fluid/blog/financeiro/fintechzacao/#:~:text=A%20fintechza%C3%A7%C3%A3o%20envolve%20a%20incorpora%C3%A7%C3%A3o,investimentos%20diretamente%20aos%20seus%20clientes. Acesso em: 07 jul. 2025.
 
 
 
