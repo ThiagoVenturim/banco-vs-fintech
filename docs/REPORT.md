@@ -233,14 +233,14 @@ Análise Exploratória: Remuneração no Setor Financeiro (Bancos vs. Fintech's)
 Após a preparação dos dados, a análise exploratória foi iniciada para extrair insights sobre as dinâmicas de remuneração. O foco foi comparar empresas de grande porte (assumidas como bancos tradicionais) e de pequeno/médio porte (assumidas como Fintech's) no setor financeiro brasileiro entre 2022 e 2024.
 
 * 1. Transformação de Dados para Análise Salarial
-Para viabilizar a análise quantitativa, a variável categórica faixa_salarial foi transformada em formatos mais adequados:
+  Para viabilizar a análise quantitativa, a variável categórica faixa_salarial foi transformada em formatos mais adequados:
 
-Criação da Coluna salario_numerico: As faixas salariais foram convertidas para valores numéricos representativos (ex: "de R$ 8.001/mês a R$ 12.000/mês" tornou-se 10000). Essa etapa foi crucial para permitir cálculos estatísticos como média, mediana e quartis. A verificação indicou 36 valores nulos, sugerindo que algumas faixas salariais nos dados não estavam no mapeamento inicial e precisariam de tratamento ou remoção para cálculos específicos.
+  Criação da Coluna salario_numerico: As faixas salariais foram convertidas para valores numéricos representativos (ex: "de R$ 8.001/mês a R$ 12.000/mês" tornou-se 10000). Essa etapa foi crucial para permitir cálculos estatísticos como média, mediana e quartis. A verificação indicou 36 valores nulos, sugerindo que algumas faixas salariais nos dados não estavam no mapeamento inicial e precisariam de tratamento ou remoção para cálculos específicos.
 
-Ordenação da Faixa Salarial: Foi criada a coluna faixa_salarial_ordenada do tipo categórico ordenado. Isso garantiu que as visualizações respeitassem a ordem lógica das faixas, do menor para o maior salário, evitando erros de interpretação em gráficos.
+  Ordenação da Faixa Salarial: Foi criada a coluna faixa_salarial_ordenada do tipo categórico ordenado. Isso garantiu que as visualizações respeitassem a ordem lógica das faixas, do menor para o maior salário, evitando erros de interpretação em gráficos.
 
 * 2. Análise da Distribuição Salarial
-Com os dados devidamente formatados, a análise se concentrou em como os salários se distribuíam entre os dois arquétipos de empresa ao longo dos anos.
+  Com os dados devidamente formatados, a análise se concentrou em como os salários se distribuíam entre os dois arquétipos de empresa ao longo dos anos.
 
 ### Distribuição Anual (2022-2024):
 
