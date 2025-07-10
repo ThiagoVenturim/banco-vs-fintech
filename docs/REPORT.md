@@ -192,7 +192,7 @@ oportuna, pois analisa o impacto da recente transição de mercado, fornecendo u
 
 ## Preparação dos dados:
 
-A fase de preparação dos dados neste projeto foi dividida em várias sub-etapas essenciais para transformar os dados brutos de diferentes anos em um conjunto de dados coeso e pronto para análise.
+A fase de preparação dos dados neste projeto foi dividida em várias sub-etapas essenciais para transformar os dados brutos de dife eu crentes anos em um conjunto de dados coeso e pronto para análise.
 
 1. Coleta e Integração Inicial dos Dados
 Importação das Bases de Dados: Foram importados três conjuntos de dados distintos, correspondentes às pesquisas State of Data Brazil dos anos de 2022, 2023 e 2024. Para cada ano, um DataFrame do pandas foi criado (df_2022, df_2023, df_2024).
@@ -230,6 +230,165 @@ Essa nova coluna permitiu a segmentação e a análise comparativa entre esses d
 
 ## Análise Exploratórida dos Dados:
 
+### Eixo 1: Remuneração e Valorização Profissional.
+
+Análise Exploratória: Remuneração no Setor Financeiro (Bancos vs. Fintechs)
+Após a preparação dos dados, a análise exploratória foi iniciada para extrair insights sobre as dinâmicas de remuneração. O foco foi comparar empresas de grande porte (assumidas como bancos tradicionais) e de pequeno/médio porte (assumidas como fintechs) no setor financeiro brasileiro entre 2022 e 2024.
+
+* 1. Transformação de Dados para Análise Salarial
+Para viabilizar a análise quantitativa, a variável categórica faixa_salarial foi transformada em formatos mais adequados:
+
+Criação da Coluna salario_numerico: As faixas salariais foram convertidas para valores numéricos representativos (ex: "de R$ 8.001/mês a R$ 12.000/mês" tornou-se 10000). Essa etapa foi crucial para permitir cálculos estatísticos como média, mediana e quartis. A verificação indicou 36 valores nulos, sugerindo que algumas faixas salariais nos dados não estavam no mapeamento inicial e precisariam de tratamento ou remoção para cálculos específicos.
+
+Ordenação da Faixa Salarial: Foi criada a coluna faixa_salarial_ordenada do tipo categórico ordenado. Isso garantiu que as visualizações respeitassem a ordem lógica das faixas, do menor para o maior salário, evitando erros de interpretação em gráficos.
+
+* 2. Análise da Distribuição Salarial
+Com os dados devidamente formatados, a análise se concentrou em como os salários se distribuíam entre os dois arquétipos de empresa ao longo dos anos.
+
+### Distribuição Anual (2022-2024):
+
+Os gráficos comparativos anuais mostraram a porcentagem de profissionais em cada faixa salarial. O objetivo era identificar padrões consistentes e diferenças estruturais. Por exemplo, se um tipo de empresa concentra mais profissionais em faixas salariais mais baixas ou mais altas.
+
+![image](https://github.com/user-attachments/assets/0ebc3913-3f16-47b9-ae94-ed1f28ef23d8)
+
+**Analise do Resultado**
+
+No grafo longo dos três anos, os bancos mantiveram sua liderança na concentração de profissionais na faixa de R$ 8k-12k.
+
+* As fintechs, por outro lado, mostram um fortalecimento gradual em faixas salariais mais altas, diminuindo a diferença em relação aos bancos, especialmente na faixa de R$ 12k-16k em 2024.
+
+Nota-se uma tendência geral em ambos os arquétipos de reduzir a proporção de profissionais nas faixas mais baixas (abaixo de R$ 4.000), sugerindo uma maior senioridade do mercado ou uma valorização geral dos salários de entrada.
+
+
+
+### Variação Ano a Ano: 
+
+A análise da variação percentual anual (: 2023 vs. 2022) revelou a dinâmica do mercado. Os gráficos mostraram quais faixas salariais tiveram o maior crescimento ou queda na representatividade de profissionais, indicando tendências como "achatamento" ou "valorização" de certos níveis de remuneração em bancos e fintechs.
+
+![image](https://github.com/user-attachments/assets/d02acf95-76b6-45a5-9b80-1de3aec99439)
+
+**Analise dos Resultados**
+
+
+* Mudanças em 2023: As fintechs apresentaram um crescimento percentual expressivo na faixa de R$ 30.001 a R$ 40.000 (+213%), indicando um forte movimento para atrair talentos muito caros.
+
+* Mudanças em 2024: A tendência se repetiu, com as fintechs novamente mostrando o maior crescimento na faixa de R$ 30.001 a R$ 40.000 (+120%). Os bancos, por sua vez, tiveram seu maior pico de crescimento na faixa de R$ 25.001 a R$ 30.000 (+70%).
+
+_Conclusão Principal:_ As fintechs demonstram ser mais ágeis e agressivas em suas políticas de remuneração, especialmente para atrair e reter talentos de ponta com salários muito elevados. Os bancos, embora mais estáveis, também mostram um esforço claro para valorizar posições de alta senioridade.
+
+
+
+### Perfil Médio Consolidado (2022-2024):
+
+Ao calcular a média da distribuição dos três anos, foi possível visualizar um "retrato" geral e estável do perfil salarial. A análise dos dados (perfil_medio_df) sugere que:
+
+![image](https://github.com/user-attachments/assets/9a108575-7093-4501-b6fa-76c4a5d9de78)
+
+* Grandes Empresas (Bancos): Concentram a maior parte de seus profissionais nas faixas mais altas, especialmente de R$ 8.001/mês a R$ 12.000/mês (25.68%) e de R$ 12.001/mês a R$ 16.000/mês (16.69%).
+
+* Pequenas/Médias Empresas (Fintechs): Apresentam uma distribuição mais forte em faixas intermediárias, com picos em de R$ 8.001/mês a R$ 12.000/mês (19.58%) e de R$ 4.001/mês a R$ 6.000/mês (15.69%).
+
+Isso indica que, em média, os bancos tendem a ter uma proporção maior de funcionários em faixas salariais superiores em comparação com as fintechs.
+
+
+* 3. Análise Salarial por Nível de Senioridade
+A investigação foi aprofundada para entender como a remuneração varia de acordo com o nível de senioridade.
+
+### Salário do 3º Quartil (p75): 
+
+Esta análise focou nos salários mais altos (o valor que 75% dos profissionais ganham a menos que ele), revelando o potencial de ganho em cada nível. O gráfico de barras comparativo permitiu visualizar o "teto" salarial mais comum para os talentos mais bem pagos em bancos e fintechs, sendo uma métrica importante para avaliar a competitividade na atração de profissionais sêniores.
+
+![image](https://github.com/user-attachments/assets/f5169625-67d5-4986-9b6b-8642dc77ddb5)
+
+
+**Analise dos Resultados**
+
+A análise do "Salário do 3º Quartil (p75)" revela o potencial de ganho para os profissionais de melhor desempenho em cada nível:
+
+* Nível Júnior: Os grandes bancos oferecem um teto salarial maior (R$ 7.000) em comparação com as fintechs (R$ 5.000).
+
+* Nível Pleno: O potencial de ganho é idêntico e altamente competitivo, com ambos os setores oferecendo um teto de R$ 10.000.
+
+* Nível Sênior: A situação se inverte drasticamente. As fintechs oferecem um potencial de ganho significativamente maior para seus talentos sêniores de ponta (R$ 18.000) em comparação com os grandes bancos (R$ 14.000).
+
+_Conclusão Principal:_ Enquanto os bancos podem ser mais atraentes para o início de carreira (Júnior), as fintechs se destacam por oferecer uma remuneração superior e maior potencial de crescimento para profissionais de nível Sênior.
+
+
+Resumo Geral do Eixo 1
+
+### Distribuição Salarial Completa (Boxplot): 
+
+O boxplot ofereceu a visão mais completa da estrutura salarial, mostrando:
+
+* A mediana (salário central).
+
+* A dispersão dos salários (o tamanho da "caixa").
+
+* A presença de outliers (salários muito acima do padrão).
+
+Essa visualização é fundamental para comparar não apenas os valores médios, but também a consistência e a amplitude salarial em cada nível de senioridade (Júnior, Pleno, Sênior e Liderança) entre os dois tipos de empresa.
+
+![image](https://github.com/user-attachments/assets/d113d09c-f1f7-49fc-b632-bdc959eeeed5)
+**Analise do Resultado**
+
+O gráfico de "Perfil Médio de Distribuição Salarial" consolida os dados de 2022 a 2024 e oferece uma visão geral da estrutura de remuneração:
+
+* Grandes Empresas (Bancos): A maior concentração de profissionais está na faixa de R$ 8.001 a R$ 12.000 (25,7%), com uma forte presença também na faixa de R$ 6.001 a R$ 8.000 (16,9%) e R$ 12.001 a R$ 16.000 (16,7%). Isso indica uma estrutura onde a maioria dos profissionais já se encontra em patamares salariais intermediários para altos.
+
+* Pequeno/Médio Porte (Fintechs): A distribuição é mais espalhada nas faixas intermediárias. Embora o pico também seja em R$ 8.001 a R$ 12.000 (19,6%), há uma proporção maior de funcionários em faixas como R$ 4.001 a R$ 6.000 (15,7%) em comparação com os bancos.
+
+Conclusão Principal: Em média, os grandes bancos possuem uma força de trabalho mais concentrada em faixas salariais superiores quando comparados às fintechs.
+
+
+
+Em resumo, a análise exploratória do Eixo 1 transformou dados brutos de salário em insights acionáveis, mapeando as diferenças e semelhanças nas estruturas de remuneração entre bancos tradicionais e fintechs, tanto de forma geral quanto estratificada por ano e nível de senioridade.
+ 
+ ### Eixo 2 — Adoção Tecnológica e Estratégias de Infraestrutura
+ 
+Neste eixo, a análise se aprofunda na infraestrutura tecnológica, investigando como bancos e fintechs adotam plataformas de nuvem. O objetivo é medir a maturidade digital, a evolução da modernização e as estratégias de nuvem (incluindo multicloud e a persistência de sistemas legados on-premise).
+
+* 1. Taxa de Adoção por Plataforma (AWS, Azure, GCP, On-Premise)
+
+|ano_base|	arquétipo_tamanho	|			  cloud_usada_aws	|cloud_usada_gcp|	cloud_usada_azure	|cloud_usada_on_premise|
+|------|----------------------|------------------------|-----------|--------------|------------------|
+|2022	 | Grande Porte (Provável Banco)|	54.96|	16.15|	12.75|	NaN|
+|      | Pequeno/Médio Porte (Provável Fintech)|	46.70	|21.98	|13.74|	NaN|
+|2023	 | Grande Porte (Provável Banco)	|18.72	|25.69	|64.04|	15.41|
+|      | Pequeno/Médio Porte (Provável Fintech)	|23.55|	27.80	|51.74|	10.42|
+|2024  |Grande Porte (Provável Banco)	|64.41	|14.80|	29.76	|11.34|
+|      |Pequeno/Médio Porte (Provável Fintech)	|55.56	|23.87	|24.69	|11.11|
+
+
+
+Metodologia: A taxa de adoção foi calculada medindo a porcentagem de profissionais que utilizam cada uma das principais plataformas de nuvem (AWS, GCP, Azure), além de soluções on-premise (servidores locais). Isso foi feito agrupando os dados por ano e arquétipo (Banco vs. Fintech).
+
+Resultados e Interpretação: A análise da tabela adoption_rates e do gráfico de evolução revela tendências significativas e algumas anomalias:
+
+AWS e Azure como Líderes: Há uma disputa clara pela liderança entre AWS e Azure. Em 2022 e 2024, a AWS aparece com maior taxa de adoção, especialmente em grandes bancos.
+
+Anomalia em 2023: Os dados de 2023 mostram uma queda abrupta na adoção de AWS e um pico massivo na de Azure, especialmente em bancos (64%). Isso pode indicar uma mudança real no mercado naquele ano ou, mais provavelmente, uma alteração na formulação da pergunta da pesquisa, o que pode ter influenciado as respostas. Essa volatilidade sugere cautela ao comparar diretamente as taxas de adoção de plataformas individuais ano a ano.
+
+Adoção de GCP: O Google Cloud Platform (GCP) consistentemente apresenta uma maior taxa de adoção em fintechs do que em bancos, sugerindo que pode ser uma opção preferencial para empresas mais novas e ágeis.
+
+Sistemas On-Premise: A presença de infraestrutura on-premise diminuiu ligeiramente nos bancos (de 15.4% em 2023 para 11.3% em 2024), indicando um lento, mas contínuo, processo de migração para a nuvem.
+
+* 2. Evolução da Estratégia Multicloud
+  
+![image](https://github.com/user-attachments/assets/fe60d40b-4ca9-449b-a5d1-5cbe6a8ffeff)
+
+Metodologia: Foi criada uma métrica para identificar a adoção de uma estratégia multicloud, considerando como tal os profissionais que utilizam duas ou mais das três principais plataformas (AWS, Azure, GCP). Essa abordagem é estratégica para evitar dependência de um único fornecedor (vendor lock-in) e otimizar custos.
+
+Resultados e Interpretação: O gráfico de linha sobre a adoção multicloud mostra uma tendência mais estável e clara. Ele mede a maturidade estratégica em vez da preferência por uma única plataforma. A visualização gerada permite concluir qual dos arquétipos (bancos ou fintechs) está avançando mais rapidamente na adoção de uma infraestrutura de nuvem diversificada e resiliente. Tipicamente, espera-se um crescimento contínuo nesta métrica para ambos os segmentos.
+
+* 3. Segmentação de Perfis de Liderança
+ 
+![image](https://github.com/user-attachments/assets/487e108d-9816-418a-aa1e-bdbaf1b9c4eb)
+
+Metodologia: Como um passo preparatório para análises futuras, o conjunto de dados foi filtrado para isolar os profissionais que atuam como gestores ou líderes (atua_como_gestor).
+
+Resultado: Foi criado um novo dataframe, df_lideres, contendo 460 gestores, de um total de 2.750 profissionais no setor financeiro.
+
+Essa segmentação é de grande valor estratégico, pois permite que as próximas análises comparem diretamente as ferramentas, desafios, salários e decisões tecnológicas do ponto de vista de quem toma as decisões versus a equipe técnica, oferecendo insights muito mais profundos sobre a governança de dados e a estratégia tecnológica nas organizações.
 ---
 
 <div id='Indução_de_modelos'/>  
