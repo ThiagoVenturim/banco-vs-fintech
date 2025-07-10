@@ -47,9 +47,9 @@ _**Integrantes:**_
   
 ## Introdução:
 
-Com grande entusiasmo, submetemos esta análise ao Challenge State of Data Brazil 2025, uma iniciativa promovida pela comunidade Data Hackers em parceria com a Bain & Company. Motivados pela oportunidade de contribuir com o maior mapeamento do mercado de dados do país , nosso projeto investiga um dos fenômenos mais impactantes e atuais do cenário financeiro nacional.
+Com grande entusiasmo, submetemos esta análise ao Challenge State of Data Brazil 2025, uma iniciativa promovida pela comunidade Data Hackers em parceria com a Bain & Company. Motivados pela oportunidade de contribuir com o maior mapeamento do mercado de dados do país, nosso projeto investiga um dos fenômenos mais impactantes e atuais do cenário financeiro nacional.
 
-Nossa pesquisa concentra-se na interseção entre dois movimentos convergentes e, ao mesmo tempo, contrastantes: a "Fintechzação" dos bancos e a "Bancarização" das fintechs. Enquanto o primeiro representa a incorporação de tecnologias ágeis, inovação digital e experiência centrada no usuário por instituições tradicionais, o segundo sinaliza o avanço das fintechs rumo a estruturas mais robustas, reguladas e próximas do sistema bancário convencional.
+Nossa pesquisa concentra-se na interseção entre dois movimentos convergentes e, ao mesmo tempo, contrastantes: a “Fintechzação” dos bancos e a “Bancarização” das Fintech's. Enquanto o primeiro representa a incorporação de tecnologias ágeis, inovação digital e experiência centrada no usuário por instituições tradicionais, o segundo sinaliza o avanço das Fintech's rumo a estruturas mais robustas, reguladas e próximas do sistema bancário convencional.
 
 Para explorar as nuances dessa transformação, realizamos uma análise longitudinal inédita utilizando as bases da pesquisa State of Data Brazil dos anos de 2022, 2023 e 2024 (a base central deste Challenge). Essa abordagem nos permite observar a evolução do ecossistema de dados ao longo do tempo e responder a perguntas essenciais.
 
