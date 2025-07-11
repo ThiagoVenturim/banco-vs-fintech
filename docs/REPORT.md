@@ -114,7 +114,7 @@ A partir das bases da pesquisa State of Data Brazil dos anos 2022, 2023 e 2024, 
   Apesar da imagem tradicionalmente associada à rigidez dos bancos, nossa hipótese é que essas instituições aumentaram a adoção da AWS para iniciativas voltadas à inovação, dados e transformação digital. Por outro lado, as Fintech's, à medida que amadurecem e lidam com demandas de escalabilidade e custos, migraram para ambientes multicloud, ampliando sua adoção de Azure (pela integração com serviços corporativos) e GCP (pela eficiência em Big Data e Machine Learning). A distribuição por provedor, portanto, poderá revelar indícios estratégicos da maturidade tecnológica de cada segmento.
 
 ###  **Eixo 3 — Desafios de Liderança e Gestão**
-finta
+
 * Pergunta-chave:
   Quais foram os principais desafios de gestão relatados por líderes de dados em Bancos e Fintech's entre 2022 e 2024, e como essas dificuldades se diferenciaram entre os dois modelos de organização?
 
@@ -453,7 +453,7 @@ Essa segmentação é de grande valor estratégico por permitir que as próximas
 ### Eixo 3
   
 <div id='Eixo_4'/> 
- 
+
 ### Eixo 4
   
 <div id='Eixo_5'/>  
