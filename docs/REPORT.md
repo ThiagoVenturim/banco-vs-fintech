@@ -284,6 +284,7 @@ Nossa análise exploratória foi estruturada a partir dos cinco eixos definidos 
 ---
 
 <div id='Eixo_1'/>  
+
 ### Eixo 1: Remuneração e Valorização Profissional.
 
 Análise Exploratória: Remuneração no Setor Financeiro (Bancos vs. Fintech's)
@@ -399,6 +400,7 @@ Em resumo, a análise exploratória do Eixo 1 transformou dados brutos de salár
 
 
  <div id='Eixo_2'/>  
+
  ### Eixo 2 — Adoção Tecnológica e Estratégias de Infraestrutura
  
 Neste eixo, a análise se aprofunda na infraestrutura tecnológica, investigando como bancos e Fintech's adotam plataformas de nuvem. O objetivo é medir a maturidade digital, a evolução da modernização e as estratégias de nuvem (incluindo multicloud e a persistência de sistemas legados on-premise).
@@ -448,13 +450,15 @@ Essa segmentação é de grande valor estratégico por permitir que as próximas
 
 <div id='Eixo_3'/>  
 
-## Eixo 3
+### Eixo 3
   
-<div id='Eixo_4'/>  
-## Eixo 4
+<div id='Eixo_4'/> 
+ 
+### Eixo 4
   
 <div id='Eixo_5'/>  
-## Eixo 5
+
+### Eixo 5
   
 ---
 
