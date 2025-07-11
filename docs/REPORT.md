@@ -29,7 +29,7 @@ _**Integrantes:**_
 
 [9. PREPARAÇÂO DOS DADOS](#Preparação_dos_dados)
 
-[8. ANÁLISE EXPLORATÓRIDA DOS DADOS](#Análise_exploratórida_dos_dados)
+[8. ANÁLISE EXPLORATÓRIA DOS DADOS](#Análise_exploratória_dos_dados)
 
 [10. INDUÇÃO DO MODELO](#Indução_de_modelos)
 
@@ -97,7 +97,7 @@ O _problema_ é que, embora essa transformação seja visível do ponto de vista
 
 A partir das bases da pesquisa State of Data Brazil dos anos 2022, 2023 e 2024, estruturamos esta análise com base em perguntas orientadas a dados, cada uma guiada por hipóteses que serão validadas ou refutadas com evidências quantitativas. O objetivo é compreender como a disputa entre Bancos Tradicionais e Fintech's molda o cenário profissional da área de dados no Brasil — em termos de remuneração, infraestrutura tecnológica, desafios de liderança e transformações no perfil dos profissionais.
 
-**Eixo 1 — Remuneração e Valorização Profissional**
+### **Eixo 1 — Remuneração e Valorização Profissional**
 
 * Pergunta-chave:
   Como a mediana salarial dos profissionais de dados evoluiu comparativamente entre Bancos Tradicionais (associados à "Bancarização") e Fintech's (associadas à "Fintechzação") entre 2022 e 2024?
@@ -105,7 +105,7 @@ A partir das bases da pesquisa State of Data Brazil dos anos 2022, 2023 e 2024, 
 * Hipótese:
   Em 2022, impulsionadas pela euforia do ecossistema de startups e pela ampla disponibilidade de capital de risco, as Fintech's tenderam a oferecer salários mais agressivos para atrair talentos qualificados. Acreditamos que, com a virada de mercado observada a partir de 2023 — marcada pela maior exigência de rentabilidade e pelo enxugamento de quadros —, essa vantagem salarial foi reduzida. Nossa hipótese é que, neste novo cenário, os bancos tradicionais reagiram, ajustando suas faixas salariais para atrair e reter profissionais sêniores e estratégicos, promovendo uma convergência salarial entre os dois setores.
 
-**Eixo 2 — Adoção Tecnológica e Estratégias de Infraestrutura**
+### **Eixo 2 — Adoção Tecnológica e Estratégias de Infraestrutura**
 
 * Pergunta-chave:
   Qual foi a evolução na preferência por provedores de nuvem (AWS, Azure, GCP) entre Bancos e Fintech's, e como essa escolha reflete suas respectivas estratégias de mercado e posicionamento tecnológico?
@@ -113,15 +113,15 @@ A partir das bases da pesquisa State of Data Brazil dos anos 2022, 2023 e 2024, 
 * Hipótese:
   Apesar da imagem tradicionalmente associada à rigidez dos bancos, nossa hipótese é que essas instituições aumentaram a adoção da AWS para iniciativas voltadas à inovação, dados e transformação digital. Por outro lado, as Fintech's, à medida que amadurecem e lidam com demandas de escalabilidade e custos, migraram para ambientes multicloud, ampliando sua adoção de Azure (pela integração com serviços corporativos) e GCP (pela eficiência em Big Data e Machine Learning). A distribuição por provedor, portanto, poderá revelar indícios estratégicos da maturidade tecnológica de cada segmento.
 
-**Eixo 3 — Desafios de Liderança e Gestão**
-finta
+###  **Eixo 3 — Desafios de Liderança e Gestão**
+
 * Pergunta-chave:
   Quais foram os principais desafios de gestão relatados por líderes de dados em Bancos e Fintech's entre 2022 e 2024, e como essas dificuldades se diferenciaram entre os dois modelos de organização?
 
 * Hipótese:
   Esperamos identificar padrões distintos de desafios organizacionais. A hipótese é que líderes em Fintech's reportaram mais frequentemente questões relacionadas à escalabilidade de times, gestão do crescimento acelerado e estruturação de processos em ambientes ainda em consolidação. Já os líderes de bancos devem ter apontado como principais obstáculos a mudança de cultura organizacional, a modernização de sistemas legados e as restrições impostas pela burocracia interna. Essa diferença reflete as prioridades e maturidades distintas desses ambientes no enfrentamento de transformações digitais.
 
-**Eixo 4 — Impacto da Transição de Mercado na Atuação Profissional**
+###  **Eixo 4 — Impacto da Transição de Mercado na Atuação Profissional**
 
 * Pergunta-chave Principal:
   Como a transição do mercado entre 2023 e 2024 — de um ciclo de crescimento acelerado para um cenário de foco em eficiência e lucratividade — impactou a atuação dos profissionais de dados no setor financeiro?
@@ -129,7 +129,7 @@ finta
 * Hipótese Geral:
   Acreditamos que essa inflexão no ambiente macroeconômico e no setor de tecnologia, marcada por cortes de investimento, reestruturações e maior pressão por retorno financeiro, alterou profundamente o perfil, as ferramentas e as expectativas dos profissionais de dados no setor bancário e nas Fintech's. Para validar essa hipótese, exploraremos três subdimensões:
 
-**Eixo 5 — Perfil Profissional dos Cientistas de Dados no Setor Financeiro**
+###  **Eixo 5 — Perfil Profissional dos Cientistas de Dados no Setor Financeiro**
 
 * Pergunta-chave Principal:
   Como evoluiu o perfil dos profissionais de dados atuando em bancos e Fintech's entre 2022 e 2024, considerando aspectos como formação, senioridade, áreas de atuação e competências técnicas?
@@ -265,9 +265,25 @@ A fase de preparação dos dados neste projeto foi dividida em várias sub-etapa
 
 ---
 
-<div id='Análise_exploratórida_dos_dados'/>  
+<div id='Análise_exploratória_dos_dados'/>  
 
-## Análise Exploratórida dos Dados:
+## Análise Exploratória dos Dados:
+
+Nossa análise exploratória foi estruturada a partir dos cinco eixos definidos anteriormente, permitindo uma visão multidimensional da transformação digital no setor financeiro brasileiro a partir da atuação dos profissionais de dados. Abaixo, detalhamos os principais achados de cada eixo.
+
+* [Eixo 1 — Remuneração e Valorização Profissional](#Eixo_1)
+
+* [Eixo 2 — Adoção Tecnológica e Estratégias de Infraestrutura](#Eixo_2)
+
+* [Eixo 3 — Desafios de Liderança e Gestão](#Eixo_3)
+
+* [Eixo 4 — Impacto da Transição de Mercado na Atuação Profissional](#Eixo_4)
+
+* [Eixo 5 — Perfil Profissional dos Cientistas de Dados no Setor Financeiro](#Eixo_5)
+
+---
+
+<div id='Eixo_1'/>  
 
 ### Eixo 1: Remuneração e Valorização Profissional.
 
@@ -381,7 +397,10 @@ Conclusão Principal: Em média, os grandes bancos possuem uma força de trabalh
 
 
 Em resumo, a análise exploratória do Eixo 1 transformou dados brutos de salário em insights acionáveis, mapeando as diferenças e semelhanças nas estruturas de remuneração entre bancos tradicionais e Fintech's, tanto de forma geral quanto estratificada por ano e nível de senioridade.
- 
+
+
+ <div id='Eixo_2'/>  
+
  ### Eixo 2 — Adoção Tecnológica e Estratégias de Infraestrutura
  
 Neste eixo, a análise se aprofunda na infraestrutura tecnológica, investigando como bancos e Fintech's adotam plataformas de nuvem. O objetivo é medir a maturidade digital, a evolução da modernização e as estratégias de nuvem (incluindo multicloud e a persistência de sistemas legados on-premise).
@@ -429,6 +448,18 @@ Resultado: Foi criado um novo dataframe, df_lideres, contendo 460 gestores, de u
 
 Essa segmentação é de grande valor estratégico por permitir que as próximas análises comparem diretamente as ferramentas, desafios, salários e decisões tecnológicas do ponto de vista de quem toma as decisões em relação à equipe técnica, oferecendo insights muito mais profundos sobre a governança de dados e a estratégia tecnológica nas organizações.
 
+<div id='Eixo_3'/>  
+
+### Eixo 3
+  
+<div id='Eixo_4'/> 
+
+### Eixo 4
+  
+<div id='Eixo_5'/>  
+
+### Eixo 5
+  
 ---
 
 <div id='Indução_de_modelos'/>  
