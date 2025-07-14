@@ -371,15 +371,24 @@ Neste eixo, a análise se aprofunda na infraestrutura tecnológica, investigando
 
 <div id='Eixo_3'/>  
 
-### Eixo 3
-  
+## Eixo 3 — Desafios de Liderança e Gestão
+
+### Gráfico 1 - Evolução Anual dos Desafios de Liderança
+<img width="1589" height="2805" alt="__results___27_1" src="https://github.com/user-attachments/assets/124b4bb5-d3ff-45fc-b69c-a4e6413d8571" />
+
+### Gráfico 2 - Média Consolidada dos Desafios de Liderança
+<img width="1589" height="1189" alt="__results___27_3" src="https://github.com/user-attachments/assets/5664d6f8-ee70-467a-8d5a-a000d7d987a3" />
+
+
+
+
 <div id='Eixo_4'/> 
 
-### Eixo 4
+## Eixo 4
   
 <div id='Eixo_5'/>  
 
-### Eixo 5
+## Eixo 5
   
 ---
 
