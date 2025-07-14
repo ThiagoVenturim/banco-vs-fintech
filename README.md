@@ -5,14 +5,35 @@ _**Resumo:**_
 
 _**Objetivo da Pesquisa:**_
 
+---
+
 _**Integrantes:**_
 * Enzo Alves Barcelos Gripp, (eabgripp@sga.pucminas.br)
 * Pedro Dias Soares, (pedro3soares@gmail.com)
 * Thiago Domingos Venturim Ribeiro dos Santos, (thiagodomingosventutim@gmail.com)
 
+_**Mentores**_
+
+* Hayala Nepomuceno Curto
+
+
+---
 
 _**Como usar esse repositorio:**_
 
 
 
+--- 
+_**Agradecimentos**_
+
+Nós, Thiago Santos, Pedro Dias e Enzo Gripp, gostaríamos de expressar nossa sincera gratidão a todos que dedicaram seu tempo para visualizar, acompanhar e avaliar nosso projeto. Cada feedback e interação foi essencial para nosso crescimento e aprendizado ao longo desse processo.
+
+Em especial, deixamos um profundo e merecido agradecimento ao nosso mentor e professor **Hayala Nepomuceno Curto**, cuja orientação, apoio constante e incentivo foram fundamentais para que este trabalho se concretizasse. Sem sua dedicação e confiança, certamente não teríamos chegado até aqui.
+
+Nosso muito obrigado!
+
+---
+
 _**Refêrencias:**_
+
+
