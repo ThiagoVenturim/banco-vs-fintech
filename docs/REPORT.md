@@ -285,34 +285,24 @@ Nossa análise exploratória foi estruturada a partir dos cinco eixos definidos 
 
 <div id='Eixo_1'/>  
 
-### Eixo 1: Remuneração e Valorização Profissional.
-
-Análise Exploratória: Remuneração no Setor Financeiro (Bancos vs. Fintech's)
-Após a preparação dos dados, a análise exploratória foi iniciada para extrair insights sobre as dinâmicas de remuneração. O foco foi comparar empresas de grande porte (assumidas como bancos tradicionais) e de pequeno/médio porte (assumidas como Fintech's) no setor financeiro brasileiro entre 2022 e 2024.
-
-* 1. Transformação de Dados para Análise Salarial
-  Para viabilizar a análise quantitativa, a variável categórica faixa_salarial foi transformada em formatos mais adequados:
-
-  Criação da Coluna salario_numerico: As faixas salariais foram convertidas para valores numéricos representativos (ex: "de R$ 8.001/mês a R$ 12.000/mês" tornou-se 10000). Essa etapa foi crucial para permitir cálculos estatísticos como média, mediana e quartis. A verificação indicou 36 valores nulos, sugerindo que algumas faixas salariais nos dados não estavam no mapeamento inicial e precisariam de tratamento ou remoção para cálculos específicos.
-
-  Ordenação da Faixa Salarial: Foi criada a coluna faixa_salarial_ordenada do tipo categórico ordenado. Isso garantiu que as visualizações respeitassem a ordem lógica das faixas, do menor para o maior salário, evitando erros de interpretação em gráficos.
-
-* 2. Análise da Distribuição Salarial
-  Com os dados devidamente formatados, a análise se concentrou em como os salários se distribuíam entre os dois arquétipos de empresa ao longo dos anos.
+## Eixo 1: Remuneração e Valorização Profissional.
 
 ### Distribuição Anual (2022-2024):
 
 Os gráficos comparativos anuais mostraram a porcentagem de profissionais em cada faixa salarial. O objetivo era identificar padrões consistentes e diferenças estruturais. Por exemplo, se um tipo de empresa concentra mais profissionais em faixas salariais mais baixas ou mais altas.
 
-![image](https://github.com/user-attachments/assets/0ebc3913-3f16-47b9-ae94-ed1f28ef23d8)
+<img width="1247" height="790" alt="download" src="https://github.com/user-attachments/assets/ae2c2fe1-b663-49e0-ac73-860f30fa8124" />
+<img width="1247" height="790" alt="download" src="https://github.com/user-attachments/assets/d5c24468-1b39-4b71-94f3-6c2b4dfcd303" />
+<img width="1247" height="790" alt="download" src="https://github.com/user-attachments/assets/ce8ea154-a28e-425d-88cc-9239e7d107ec" />
+
 
 **Analise do Resultado**
 
-No grafo longo dos três anos, os bancos mantiveram sua liderança na concentração de profissionais na faixa de R$ 8k-12k.
+Observando os gráficos de "Distribuição Salarial Comparativa" (2022, 2023 e 2024), notamos um padrão consistente:
 
-* As Fintech's, por outro lado, mostram um fortalecimento gradual em faixas salariais mais altas, diminuindo a diferença em relação aos bancos, especialmente na faixa de R$ 12k-16k em 2024.
+* Bancos (Grande Porte): A maior concentração de profissionais (o pico dos gráficos) está consistentemente na faixa de R$ 8.001 a R$ 12.000. Em 2023 e 2024, mais de 26% dos respondentes de bancos se encontram nessa faixa. Isso sugere que este é o "coração" da força de trabalho dos bancos, provavelmente composto por muitos cargos de nível pleno e sênior inicial.
 
-Nota-se uma tendência geral em ambos os arquétipos de reduzir a proporção de profissionais nas faixas mais baixas (abaixo de R$ 4.000), sugerindo uma maior senioridade do mercado ou uma valorização geral dos salários de entrada.
+* Fintechs (Pequeno/Médio Porte): A distribuição é mais espalhada. Embora também tenham uma concentração relevante na faixa de R$ 8.001 a R$ 12.000, as fintechs mostram uma porcentagem maior de funcionários em faixas salariais mais altas (acima de R$ 16.000) quando comparadas aos bancos.
 
 
 
@@ -320,83 +310,53 @@ Nota-se uma tendência geral em ambos os arquétipos de reduzir a proporção de
 
 A análise da variação percentual anual: (2023 vs. 2022) revelou a dinâmica do mercado. Os gráficos evidenciaram quais faixas salariais tiveram o maior crescimento ou queda na representatividade de profissionais, indicando tendências como “achatamento” ou “valorização” de certos níveis de remuneração em bancos e Fintech's.
 
-![image](https://github.com/user-attachments/assets/d02acf95-76b6-45a5-9b80-1de3aec99439)
+<img width="1247" height="790" alt="image" src="https://github.com/user-attachments/assets/8deef9e9-b75e-4b60-8ef3-4e31aa048867" />
+<img width="1247" height="790" alt="image" src="https://github.com/user-attachments/assets/e844080b-5e70-4836-b5a6-3abaec018731" />
 
 **Analise dos Resultados**
 
+Os gráficos de "Variação Anual" mostram o dinamismo do mercado:
 
-* Mudanças em 2023: As Fintech's apresentaram um crescimento percentual expressivo na faixa de R$ 30.001 a R$ 40.000 (+213%), indicando um forte movimento para atrair talentos muito caros.
+* Em 2023: As fintechs mostraram um crescimento explosivo na faixa de R$ 25.001 a R$ 30.000 (+213%), indicando uma forte movimentação para contratação de especialistas e líderes. Em contrapartida, diminuíram a presença em faixas mais baixas.
 
-* Mudanças em 2024: A tendência se repetiu, com as Fintech's novamente mostrando o maior crescimento na faixa de R$ 30.001 a R$ 40.000 (+120%). Os bancos, por sua vez, tiveram seu maior pico de crescimento na faixa de R$ 25.001 a R$ 30.000 (+70%).
-
-_Conclusão Principal:_ As Fintech's demonstram ser mais ágeis e agressivas em suas políticas de remuneração, especialmente para atrair e reter talentos de ponta com salários muito elevados. Os bancos, embora mais estáveis, também mostram um esforço claro para valorizar posições de alta senioridade.
-
+* Em 2024: A tendência se intensifica nos salários mais altos. As fintechs apresentam um crescimento massivo de +110% na faixa acima de R$ 40.000. Ao mesmo tempo, praticamente eliminaram (-100%) a faixa salarial mais baixa ("Menos de R$ 1.000/mês"). Os bancos, por sua vez, mostraram um aumento notável de +70% na faixa de R$ 25.001 a R$ 30.000, talvez como uma reação para competir pelo mesmo talento que as fintechs buscaram no ano anterior.
 
 
 ### Perfil Médio Consolidado (2022-2024):
 
 Ao calcular a média da distribuição dos três anos, foi possível visualizar um "retrato" geral e estável do perfil salarial. A análise dos dados (perfil_medio_df) sugere que:
 
-![image](https://github.com/user-attachments/assets/9a108575-7093-4501-b6fa-76c4a5d9de78)
-
-* Grandes Empresas (Bancos): Concentram a maior parte de seus profissionais nas faixas mais altas, especialmente de R$ 8.001/mês a R$ 12.000/mês (25.68%) e de R$ 12.001/mês a R$ 16.000/mês (16.69%).
-
-* Pequenas/Médias Empresas (Fintech's): Apresentam uma distribuição mais forte em faixas intermediárias, com picos em de R$ 8.001/mês a R$ 12.000/mês (19.58%) e de R$ 4.001/mês a R$ 6.000/mês (15.69%).
-
-Isso indica que, em média, os bancos tendem a ter uma proporção maior de funcionários em faixas salariais superiores em comparação com as Fintech's.
-
-
-* 3. Análise Salarial por Nível de Senioridade
-A investigação foi aprofundada para entender como a remuneração varia de acordo com o nível de senioridade.
-
-### Salário do 3º Quartil (p75): 
-
-Esta análise focou nos salários mais altos (o valor que 75% dos profissionais ganham a menos que ele), revelando o potencial de ganho em cada nível. O gráfico de barras comparativo permitiu visualizar o "teto" salarial mais comum para os talentos mais bem pagos em bancos e Fintech's, sendo uma métrica importante para avaliar a competitividade na atração de profissionais sêniores.
-
-![image](https://github.com/user-attachments/assets/f5169625-67d5-4986-9b6b-8642dc77ddb5)
+<img width="1778" height="890" alt="download" src="https://github.com/user-attachments/assets/a96474ac-c4fb-4fc7-a5b4-ff36920df980" />
 
 
 **Analise dos Resultados**
 
-A análise do "Salário do 3º Quartil (p75)" revela o potencial de ganho para os profissionais de melhor desempenho em cada nível:
+* Perfil do Banco: Foco no Meio da Carreira. Os bancos possuem uma estrutura salarial que privilegia e concentra a maior parte de seus profissionais em faixas de remuneração intermediárias. É um modelo mais padronizado e com menor variação salarial entre os cargos.
 
-* Nível Júnior: Os grandes bancos oferecem um teto salarial maior (R$ 7.000) em comparação com as Fintech's (R$ 5.000).
-
-* Nível Pleno: O potencial de ganho é idêntico e altamente competitivo, com ambos os setores oferecendo um teto de R$ 10.000.
-
-* Nível Sênior: A situação se inverte drasticamente. As Fintech's oferecem um potencial de ganho significativamente maior para seus talentos sêniores de ponta (R$ 18.000) em comparação com os grandes bancos (R$ 14.000).
-
-_Conclusão Principal:_ Enquanto os bancos podem ser mais atraentes para o início de carreira (Júnior), as Fintech's se destacam por oferecer uma remuneração superior e maior potencial de crescimento para profissionais de nível Sênior.
-
-
-Resumo Geral do Eixo 1
-
-### Distribuição Salarial Completa (Boxplot): 
-
-O boxplot ofereceu a visão mais completa da estrutura salarial, mostrando:
-
-* A mediana (salário central).
-
-* A dispersão dos salários (o tamanho da "caixa").
-
-* A presença de outliers (salários muito acima do padrão).
-
-Essa visualização é fundamental para comparar não apenas os valores médios, but também a consistência e a amplitude salarial em cada nível de senioridade (Júnior, Pleno, Sênior e Liderança) entre os dois tipos de empresa.
-
-![image](https://github.com/user-attachments/assets/d113d09c-f1f7-49fc-b632-bdc959eeeed5)
-**Analise do Resultado**
-
-O gráfico de "Perfil Médio de Distribuição Salarial" consolida os dados de 2022 a 2024 e oferece uma visão geral da estrutura de remuneração:
-
-* Grandes Empresas (Bancos): A maior concentração de profissionais está na faixa de R$ 8.001 a R$ 12.000 (25,7%), com uma forte presença também na faixa de R$ 6.001 a R$ 8.000 (16,9%) e R$ 12.001 a R$ 16.000 (16,7%). Isso indica uma estrutura onde a maioria dos profissionais já se encontra em patamares salariais intermediários para altos.
-
-* Pequeno/Médio Porte (Fintech's): A distribuição é mais espalhada nas faixas intermediárias. Embora o pico também seja em R$ 8.001 a R$ 12.000 (19,6%), há uma proporção maior de funcionários em faixas como R$ 4.001 a R$ 6.000 (15,7%) em comparação com os bancos.
-
-Conclusão Principal: Em média, os grandes bancos possuem uma força de trabalho mais concentrada em faixas salariais superiores quando comparados às Fintech's.
+* Perfil da Fintech: Estrutura mais Flexível e Polarizada. As fintechs demonstram uma estratégia de remuneração mais distribuída. Elas comportam uma base maior de profissionais em faixas de entrada ou de menor senioridade, mas, ao mesmo tempo, são mais agressivas na remuneração de talentos de alto nível e especialistas, pagando salários mais competitivos nas faixas superiores.
 
 
 
-Em resumo, a análise exploratória do Eixo 1 transformou dados brutos de salário em insights acionáveis, mapeando as diferenças e semelhanças nas estruturas de remuneração entre bancos tradicionais e Fintech's, tanto de forma geral quanto estratificada por ano e nível de senioridade.
+### Distribuição Salarial por Senioridade e Arquétipo
+
+Esta análise focou nos salários mais altos (o valor que 75% dos profissionais ganham a menos que ele), revelando o potencial de ganho em cada nível. O gráfico de barras comparativo permitiu visualizar o "teto" salarial mais comum para os talentos mais bem pagos em bancos e Fintech's, sendo uma métrica importante para avaliar a competitividade na atração de profissionais sêniores.
+
+<img width="1189" height="790" alt="download" src="https://github.com/user-attachments/assets/195c85af-08fc-487e-9b46-047f1e4c8f78" />
+<img width="1389" height="889" alt="image" src="https://github.com/user-attachments/assets/53ec14ff-c12b-4cad-b5da-e35e914d283f" />
+
+
+**Analise dos Resultados**
+
+
+ Os gráficos "Salário do 3º Quartil (p75)" e "Distribuição Salarial Completa por Senioridade" são os mais reveladores:
+
+* Nível Júnior: Bancos tendem a pagar mais. O salário mediano e o 3º quartil (R$ 7.000) são visivelmente maiores para os profissionais júnior em bancos do que em fintechs (p75 de R$ 5.000).
+
+* Nível Pleno: A remuneração é extremamente competitiva e praticamente idêntica entre os dois modelos. O 3º quartil para ambos é de R$ 10.000, e as medianas no gráfico de box plot também são muito próximas.
+
+* Nível Sênior: Aqui a situação se inverte drasticamente. Fintechs pagam significativamente mais para profissionais sênior. O 3º quartil (p75) em fintechs atinge R$ 18.000, enquanto nos bancos fica em R$ 14.000. O box plot confirma isso, mostrando uma mediana e um teto salarial muito mais altos para sêniores em fintechs.
+
+
 
 
  <div id='Eixo_2'/>  
