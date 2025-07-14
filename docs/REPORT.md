@@ -8,7 +8,11 @@ _**Integrantes:**_
 * Thiago Domingos Venturim Ribeiro dos Santos, (thiagodomingosventutim@gmail.com)
 
 **Resumo:**
+Este projeto, submetido ao Challenge State of Data Brazil 2025, analisa a transformação do setor financeiro brasileiro sob a ótica dos profissionais de dados. O estudo investiga a dinâmica entre a "Fintechzação" dos bancos e a "Bancarização" das fintechs.
 
+Utilizando uma análise longitudinal inédita com dados das pesquisas de 2022, 2023 e 2024, a pesquisa explora a evolução de salários, tecnologias, desafios de liderança e perfis profissionais.
+
+O objetivo é mapear como a disputa entre bancos tradicionais e fintechs está moldando o mercado de trabalho e as carreiras em dados no Brasil, fornecendo insights estratégicos para profissionais e empresas do setor.
 ---
 
 ## Sumario:
