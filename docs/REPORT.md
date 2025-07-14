@@ -291,9 +291,9 @@ Nossa análise exploratória foi estruturada a partir dos cinco eixos definidos 
 
 Os gráficos comparativos anuais mostraram a porcentagem de profissionais em cada faixa salarial. O objetivo era identificar padrões consistentes e diferenças estruturais. Por exemplo, se um tipo de empresa concentra mais profissionais em faixas salariais mais baixas ou mais altas.
 
-<img width="1247" height="790" alt="download" src="https://github.com/user-attachments/assets/ae2c2fe1-b663-49e0-ac73-860f30fa8124" />
-<img width="1247" height="790" alt="download" src="https://github.com/user-attachments/assets/d5c24468-1b39-4b71-94f3-6c2b4dfcd303" />
-<img width="1247" height="790" alt="download" src="https://github.com/user-attachments/assets/ce8ea154-a28e-425d-88cc-9239e7d107ec" />
+<img width="1247" height="790" alt="image" src="https://github.com/user-attachments/assets/ae671ff3-2b3c-49ce-af2e-cbc419c9d54d" />
+<img width="1247" height="790" alt="image" src="https://github.com/user-attachments/assets/cf9773ce-5a13-46d3-bbd6-43533a5ffb5f" />
+<img width="1247" height="790" alt="image" src="https://github.com/user-attachments/assets/3f8d25f8-682d-4fdb-817b-62b4633d953a" />
 
 
 **Analise do Resultado**
@@ -310,8 +310,8 @@ Observando os gráficos de "Distribuição Salarial Comparativa" (2022, 2023 e 2
 
 A análise da variação percentual anual: (2023 vs. 2022) revelou a dinâmica do mercado. Os gráficos evidenciaram quais faixas salariais tiveram o maior crescimento ou queda na representatividade de profissionais, indicando tendências como “achatamento” ou “valorização” de certos níveis de remuneração em bancos e Fintech's.
 
-<img width="1389" height="789" alt="download" src="https://github.com/user-attachments/assets/16d434b2-e56a-4ae9-bb20-579f47a8bf14" />
-<img width="1389" height="789" alt="download" src="https://github.com/user-attachments/assets/71710c33-5126-4635-8e16-6338e8a68de4" />
+<img width="1389" height="789" alt="image" src="https://github.com/user-attachments/assets/1d3fbe70-b949-44e8-a4a1-eaec3ef3cce1" />
+<img width="1389" height="789" alt="image" src="https://github.com/user-attachments/assets/cc41ee31-936d-45e8-8d2a-00a6b7dbcae2" />
 
 
 
@@ -328,7 +328,7 @@ Os gráficos de "Variação Anual" mostram o dinamismo do mercado:
 
 Ao calcular a média da distribuição dos três anos, foi possível visualizar um "retrato" geral e estável do perfil salarial. A análise dos dados (perfil_medio_df) sugere que:
 
-<img width="1778" height="890" alt="download" src="https://github.com/user-attachments/assets/a96474ac-c4fb-4fc7-a5b4-ff36920df980" />
+<img width="1778" height="890" alt="image" src="https://github.com/user-attachments/assets/1ecf0e12-df3b-488b-9c3c-06f875b81362" />
 
 
 **Analise dos Resultados**
@@ -343,8 +343,8 @@ Ao calcular a média da distribuição dos três anos, foi possível visualizar 
 
 Esta análise focou nos salários mais altos (o valor que 75% dos profissionais ganham a menos que ele), revelando o potencial de ganho em cada nível. O gráfico de barras comparativo permitiu visualizar o "teto" salarial mais comum para os talentos mais bem pagos em bancos e Fintech's, sendo uma métrica importante para avaliar a competitividade na atração de profissionais sêniores.
 
-<img width="1189" height="790" alt="download" src="https://github.com/user-attachments/assets/195c85af-08fc-487e-9b46-047f1e4c8f78" />
-<img width="1389" height="889" alt="image" src="https://github.com/user-attachments/assets/53ec14ff-c12b-4cad-b5da-e35e914d283f" />
+<img width="1189" height="790" alt="image" src="https://github.com/user-attachments/assets/a49a4c2f-0165-423a-95b7-dda8f5cd6178" />
+<img width="1389" height="889" alt="image" src="https://github.com/user-attachments/assets/5d24fb36-0cf0-4d6e-a958-3ee47112289b" />
 
 
 **Analise dos Resultados**
