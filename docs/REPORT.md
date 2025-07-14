@@ -367,48 +367,7 @@ Esta análise focou nos salários mais altos (o valor que 75% dos profissionais 
  
 Neste eixo, a análise se aprofunda na infraestrutura tecnológica, investigando como bancos e Fintech's adotam plataformas de nuvem. O objetivo é medir a maturidade digital, a evolução da modernização e as estratégias de nuvem (incluindo multicloud e a persistência de sistemas legados on-premise).
 
-* 1. Taxa de Adoção por Plataforma (AWS, Azure, GCP, On-Premise)
 
-|ano_base|	arquétipo_tamanho	|			  cloud_usada_aws	|cloud_usada_gcp|	cloud_usada_azure	|cloud_usada_on_premise|
-|------|----------------------|------------------------|-----------|--------------|------------------|
-|2022	 | Grande Porte (Provável Banco)|	54.96|	16.15|	12.75|	NaN|
-|      | Pequeno/Médio Porte (Provável Fintech)|	46.70	|21.98	|13.74|	NaN|
-|2023	 | Grande Porte (Provável Banco)	|18.72	|25.69	|64.04|	15.41|
-|      | Pequeno/Médio Porte (Provável Fintech)	|23.55|	27.80	|51.74|	10.42|
-|2024  |Grande Porte (Provável Banco)	|64.41	|14.80|	29.76	|11.34|
-|      |Pequeno/Médio Porte (Provável Fintech)	|55.56	|23.87	|24.69	|11.11|
-
-
-
-Metodologia: A taxa de adoção foi calculada medindo a porcentagem de profissionais que utilizam cada uma das principais plataformas de nuvem (AWS, GCP, Azure), além de soluções on-premise (servidores locais). Isso foi feito agrupando os dados por ano e arquétipo (Banco vs. Fintech).
-
-Resultados e Interpretação: A análise da tabela adoption_rates e do gráfico de evolução revela tendências significativas e algumas anomalias:
-
-AWS e Azure como Líderes: Há uma disputa clara pela liderança entre AWS e Azure. Em 2022 e 2024, a AWS aparece com maior taxa de adoção, especialmente em grandes bancos.
-
-Anomalia em 2023: Os dados de 2023 mostram uma queda abrupta na adoção de AWS e um pico massivo na de Azure, especialmente em bancos (64%). Isso pode indicar uma mudança real no mercado naquele ano ou, mais provavelmente, uma alteração na formulação da pergunta da pesquisa, o que pode ter influenciado as respostas. Essa volatilidade sugere cautela ao comparar diretamente as taxas de adoção de plataformas individuais ano a ano.
-
-Adoção de GCP: O Google Cloud Platform (GCP) consistentemente apresenta uma maior taxa de adoção em Fintech's do que em bancos, sugerindo que pode ser uma opção preferencial para empresas mais novas e ágeis.
-
-Sistemas On-Premise: A presença de infraestrutura on-premise diminuiu ligeiramente nos bancos (de 15.4% em 2023 para 11.3% em 2024), indicando um lento, mas contínuo, processo de migração para a nuvem.
-
-* 2. Evolução da Estratégia Multicloud
-  
-![image](https://github.com/user-attachments/assets/fe60d40b-4ca9-449b-a5d1-5cbe6a8ffeff)
-
-Metodologia: Foi criada uma métrica para identificar a adoção de uma estratégia multicloud, considerando como tal os profissionais que utilizam duas ou mais das três principais plataformas (AWS, Azure, GCP). Essa abordagem é estratégica para evitar dependência de um único fornecedor (vendor lock-in) e otimizar custos.
-
-Resultados e Interpretação: O gráfico de linha sobre a adoção multicloud mostra uma tendência mais estável e clara. Ele mede a maturidade estratégica em vez da preferência por uma única plataforma. A visualização gerada permite concluir qual dos arquétipos (bancos ou Fintech's) está avançando mais rapidamente na adoção de uma infraestrutura de nuvem diversificada e resiliente. Tipicamente, espera-se um crescimento contínuo nesta métrica para ambos os segmentos.
-
-* 3. Segmentação de Perfis de Liderança
- 
-![image](https://github.com/user-attachments/assets/487e108d-9816-418a-aa1e-bdbaf1b9c4eb)
-
-Metodologia: Como um passo preparatório para análises futuras, o conjunto de dados foi filtrado para isolar os profissionais que atuam como gestores ou líderes (atua_como_gestor).
-
-Resultado: Foi criado um novo dataframe, df_lideres, contendo 460 gestores, de um total de 2.750 profissionais no setor financeiro.
-
-Essa segmentação é de grande valor estratégico por permitir que as próximas análises comparem diretamente as ferramentas, desafios, salários e decisões tecnológicas do ponto de vista de quem toma as decisões em relação à equipe técnica, oferecendo insights muito mais profundos sobre a governança de dados e a estratégia tecnológica nas organizações.
 
 <div id='Eixo_3'/>  
 
