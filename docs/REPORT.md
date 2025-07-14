@@ -362,16 +362,15 @@ Esta análise focou nos salários mais altos (o valor que 75% dos profissionais 
 
 * Nível Sênior: Aqui a situação se inverte drasticamente. Fintechs pagam significativamente mais para profissionais sênior. O 3º quartil (p75) em fintechs atinge R$ 18.000, enquanto nos bancos fica em R$ 14.000. O box plot confirma isso, mostrando uma mediana e um teto salarial muito mais altos para sêniores em fintechs.
 
-
-
+---
 
  <div id='Eixo_2'/>  
 
- ### Eixo 2 — Adoção Tecnológica e Estratégias de Infraestrutura
+ ## Eixo 2 — Adoção Tecnológica e Estratégias de Infraestrutura
  
 Neste eixo, a análise se aprofunda na infraestrutura tecnológica, investigando como bancos e Fintech's adotam plataformas de nuvem. O objetivo é medir a maturidade digital, a evolução da modernização e as estratégias de nuvem (incluindo multicloud e a persistência de sistemas legados on-premise).
 
-
+---
 
 <div id='Eixo_3'/>  
 
@@ -427,11 +426,14 @@ A diferença expressiva nos dados não é acidental e pode ser atribuída a vár
 
 A taxa de adoção do GitHub Copilot serve como um excelente indicador da velocidade e da abertura à inovação de cada setor. O resultado deste gráfico é um reflexo prático dos desafios de liderança vistos anteriormente: a mesma **burocracia** e o receio de **mudar a cultura** que desafiam os líderes nos bancos são, provavelmente, as mesmas forças que limitam a adoção de novas ferramentas por seus times técnicos. A "Fusão Invisível" pode estar a acontecer no nível dos produtos oferecidos ao cliente final, mas no "chão de fábrica" do desenvolvimento de software, as filosofias operacionais ainda são bastante distintas.
 
+---
 
 <div id='Eixo_4'/> 
 
 ## Eixo 4
   
+---
+
 <div id='Eixo_5'/>  
 
 ## Eixo 5
