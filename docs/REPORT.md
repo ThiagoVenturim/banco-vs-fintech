@@ -300,7 +300,7 @@ Os gráficos comparativos anuais mostraram a porcentagem de profissionais em cad
 <img width="1247" height="790" alt="image" src="https://github.com/user-attachments/assets/3f8d25f8-682d-4fdb-817b-62b4633d953a" />
 
 
-**Analise do Resultado**
+#### Analise dos Resultados
 
 Observando os gráficos de "Distribuição Salarial Comparativa" (2022, 2023 e 2024), notamos um padrão consistente:
 
@@ -319,7 +319,7 @@ A análise da variação percentual anual: (2023 vs. 2022) revelou a dinâmica d
 
 
 
-**Analise dos Resultados**
+#### Analise dos Resultados
 
 Os gráficos de "Variação Anual" mostram o dinamismo do mercado:
 
@@ -335,7 +335,7 @@ Ao calcular a média da distribuição dos três anos, foi possível visualizar 
 <img width="1778" height="890" alt="image" src="https://github.com/user-attachments/assets/1ecf0e12-df3b-488b-9c3c-06f875b81362" />
 
 
-**Analise dos Resultados**
+#### Analise dos Resultados
 
 * Perfil do Banco: Foco no Meio da Carreira. Os bancos possuem uma estrutura salarial que privilegia e concentra a maior parte de seus profissionais em faixas de remuneração intermediárias. É um modelo mais padronizado e com menor variação salarial entre os cargos.
 
@@ -351,7 +351,7 @@ Esta análise focou nos salários mais altos (o valor que 75% dos profissionais 
 <img width="1389" height="889" alt="image" src="https://github.com/user-attachments/assets/5d24fb36-0cf0-4d6e-a958-3ee47112289b" />
 
 
-**Analise dos Resultados**
+#### Analise dos Resultados
 
 
  Os gráficos "Salário do 3º Quartil (p75)" e "Distribuição Salarial Completa por Senioridade" são os mais reveladores:
@@ -380,10 +380,52 @@ Neste eixo, a análise se aprofunda na infraestrutura tecnológica, investigando
 ### Gráfico 1 - Evolução Anual dos Desafios de Liderança
 <img width="1589" height="2805" alt="__results___27_1" src="https://github.com/user-attachments/assets/124b4bb5-d3ff-45fc-b69c-a4e6413d8571" />
 
+#### Analise dos Resultados
+
+O gráfico de barras comparativo, "Comparativo de Desafios de Liderança: Bancos vs. Fintechs", apresenta a frequência relativa com que líderes de cada segmento (Grande Porte/Bancos e Pequeno/Médio Porte/Fintechs) reportaram os principais desafios organizacionais. A análise visual dos dados valida de forma contundente a hipótese inicial do eixo 3, revelando padrões distintos e consistentes com as diferentes maturidades e contextos operacionais de cada arquétipo.
+
+**Principais Insights Observados:**
+
+* **Desafios em Bancos (Grande Porte):** Os líderes deste segmento apontaram com maior frequência desafios relacionados à transformação de estruturas consolidadas. Os três pontos que mais se destacam em comparação com as fintechs são:
+    * **Mudar a cultura da empresa:** Apontado por aproximadamente 17.5% dos líderes de bancos, contra cerca de 10% nas fintechs. Este é o desafio com a maior disparidade, confirmando que a mudança cultural é o principal obstáculo em ambientes tradicionais.
+    * **Burocracia interna / Etapas de aprovação:** Com quase 15% de frequência nos bancos versus apenas 5% nas fintechs, a rigidez processual se mostra uma barreira significativa.
+    * **Lidar com a complexidade de sistemas legados:** Um desafio técnico clássico de instituições estabelecidas, mencionado por quase 9% dos líderes de bancos, uma frequência 3.5 vezes maior que a observada nas fintechs.
+
+* **Desafios em Fintechs (Pequeno/Médio Porte):** Os desafios mais proeminentes para os líderes de fintechs estão diretamente ligados à expansão, estruturação e competição por talentos, reflexo de um ambiente de rápido crescimento.
+    * **Estruturar e organizar a área de dados:** Sendo o principal desafio reportado por este grupo (cerca de 14%), a necessidade de construir processos e governança do zero é evidente.
+    * **Contratar bons profissionais:** A competição por talentos é mais sentida nas fintechs (13%) do que nos bancos (10%), um claro sintoma da necessidade de escalar as equipes rapidamente.
+    * **Falta de recursos (budget):** A restrição orçamentária é um desafio significativamente mais comum em fintechs (10%) do que em bancos (6%), o que impacta diretamente a capacidade de investimento em ferramentas e pessoal.
+
+**Conclusão da Análise do Gráfico**
+
+Os resultados visuais confirmam a hipótese: enquanto os **líderes de bancos** estão focados em uma batalha interna contra a **inércia cultural, a burocracia e a dívida tecnológica**, os **líderes de fintechs** enfrentam os desafios de **construir, escalar e competir** em um ambiente dinâmico e com recursos mais limitados. A "fusão invisível" se manifesta aqui não como uma convergência de problemas, mas como um espelho que reflete as dores de crescimento de um lado e as dores de transformação do outro.
+
 ### Gráfico 2 - Média Consolidada dos Desafios de Liderança
 <img width="1589" height="1189" alt="__results___27_3" src="https://github.com/user-attachments/assets/5664d6f8-ee70-467a-8d5a-a000d7d987a3" />
 
+#### Analise dos Resultados
 
+Este gráfico de barras ilustra a taxa de adoção da ferramenta de assistência por IA, GitHub Copilot, entre os desenvolvedores de ambos os arquétipos de empresa. O resultado revela uma diferença marcante e estatisticamente significativa, fornecendo fortes evidências sobre as distintas culturas de inovação e agilidade tecnológica.
+
+#### Principais Insights Observados:
+
+* **Adoção em Fintechs (Pequeno/Médio Porte):** Apresentam uma taxa de adoção de **16.5%**. Este número sugere um ambiente que incentiva ou, no mínimo, permite a exploração de novas tecnologias que prometem acelerar o ciclo de desenvolvimento e aumentar a produtividade.
+
+* **Adoção em Bancos (Grande Porte):** A taxa de adoção é significativamente menor, ficando em **9.3%**. Isso representa quase metade da taxa vista nas fintechs.
+
+#### Interpretação e Hipóteses para a Disparidade:
+
+A diferença expressiva nos dados não é acidental e pode ser atribuída a vários fatores que corroboram a tese central do projeto:
+
+1.  **Agilidade vs. Burocracia:** As **fintechs** operam com um foco obsessivo em velocidade (*time-to-market*). Ferramentas como o Copilot são vistas como um meio de acelerar a entrega de código. Em contrapartida, os **bancos** possuem processos de aprovação de software mais longos e rigorosos, onde questões de segurança, conformidade (compliance) e propriedade intelectual do código gerado por IA são analisadas extensivamente antes da liberação para os desenvolvedores.
+
+2.  **Cultura de Inovação:** A cultura das **fintechs** é, por natureza, mais aberta à experimentação. Há um incentivo para que os desenvolvedores testem novas ferramentas que possam lhes dar uma vantagem competitiva. Nos **bancos**, a aversão ao risco tende a ser maior, favorecendo o uso de ferramentas e processos já consolidados e amplamente validados, o que pode retardar a adoção de tecnologias de ponta.
+
+3.  **Ambiente Tecnológico:** Desenvolvedores em **fintechs** frequentemente trabalham com tecnologias mais modernas (*greenfield projects*), onde a integração de novas ferramentas é mais simples. Os **bancos**, por outro lado, ainda lidam com a complexidade de sistemas legados, onde a introdução de uma ferramenta como o Copilot pode apresentar desafios técnicos e de segurança adicionais.
+
+#### Conclusão da Análise do Gráfico:
+
+A taxa de adoção do GitHub Copilot serve como um excelente indicador da velocidade e da abertura à inovação de cada setor. O resultado deste gráfico é um reflexo prático dos desafios de liderança vistos anteriormente: a mesma **burocracia** e o receio de **mudar a cultura** que desafiam os líderes nos bancos são, provavelmente, as mesmas forças que limitam a adoção de novas ferramentas por seus times técnicos. A "Fusão Invisível" pode estar a acontecer no nível dos produtos oferecidos ao cliente final, mas no "chão de fábrica" do desenvolvimento de software, as filosofias operacionais ainda são bastante distintas.
 
 
 <div id='Eixo_4'/> 
