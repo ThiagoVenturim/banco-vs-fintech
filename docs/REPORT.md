@@ -310,8 +310,10 @@ Observando os gráficos de "Distribuição Salarial Comparativa" (2022, 2023 e 2
 
 A análise da variação percentual anual: (2023 vs. 2022) revelou a dinâmica do mercado. Os gráficos evidenciaram quais faixas salariais tiveram o maior crescimento ou queda na representatividade de profissionais, indicando tendências como “achatamento” ou “valorização” de certos níveis de remuneração em bancos e Fintech's.
 
-<img width="1247" height="790" alt="image" src="https://github.com/user-attachments/assets/8deef9e9-b75e-4b60-8ef3-4e31aa048867" />
-<img width="1247" height="790" alt="image" src="https://github.com/user-attachments/assets/e844080b-5e70-4836-b5a6-3abaec018731" />
+<img width="1389" height="789" alt="download" src="https://github.com/user-attachments/assets/16d434b2-e56a-4ae9-bb20-579f47a8bf14" />
+<img width="1389" height="789" alt="download" src="https://github.com/user-attachments/assets/71710c33-5126-4635-8e16-6338e8a68de4" />
+
+
 
 **Analise dos Resultados**
 
