@@ -141,6 +141,21 @@ A partir das bases da pesquisa State of Data Brazil dos anos 2022, 2023 e 2024, 
 * Hipótese Geral:
   Nos últimos três anos, o setor financeiro passou por transformações estruturais que impactaram diretamente a composição e as exigências em torno dos profissionais de dados. Nossa hipótese é que houve uma especialização progressiva, com perfis mais técnicos, multidisciplinares e experientes ganhando protagonismo, especialmente em áreas críticas como Machine Learning, engenharia de dados e produtização de modelos. Essa tendência teria se acentuado nas Fintech's até 2022, mas passou a ser incorporada também pelos bancos a partir de 2023, com a aceleração da digitalização.
 
+### v
+
+**Pergunta-chave Principal:**
+
+Como a distribuição geográfica dos profissionais de dados no setor financeiro brasileiro evoluiu entre 2022 e 2024? Quais polos de talentos se consolidaram para além do eixo Rio-São Paulo, e de que forma a ascensão do trabalho remoto reconfigurou as estratégias de atração e retenção de talentos por parte de Bancos e Fintechs?
+
+**Hipótese Geral:**
+
+Nossa hipótese é que, embora o eixo Rio-São Paulo mantenha sua histórica relevância como centro financeiro, a consolidação do trabalho remoto pós-pandemia impulsionou uma significativa descentralização dos talentos de dados. Inicialmente, as Fintechs, mais ágeis e digitais, capitalizaram sobre essa tendência para atrair profissionais de diversas regiões do país com modelos de trabalho flexíveis, ganhando vantagem competitiva.
+
+ A partir de 2023, os bancos tradicionais, ao perceberem a perda de talentos para essa concorrência distribuída, foram forçados a adaptar suas estratégias, adotando modelos híbridos ou totalmente remotos.
+
+ Esse movimento resultou na formação e fortalecimento de novos polos de tecnologia e dados em cidades como Florianópolis, Recife, Belo Horizonte e Campinas, transformando a disputa por profissionais em uma competição de escala nacional, não mais restrita aos grandes centros urbanos.
+
+
 ---
 
 <div id='Objetivo'/>  
@@ -284,6 +299,8 @@ Nossa análise exploratória foi estruturada a partir dos cinco eixos definidos 
 * [Eixo 4 — Impacto da Transição de Mercado na Atuação Profissional](#Eixo_4)
 
 * [Eixo 5 — Perfil Profissional dos Cientistas de Dados no Setor Financeiro](#Eixo_5)
+  
+* [Eixo 6 — A Geografia da Disputa por Talentos no Setor Financeiro(#Eixo- 6)
 
 ---
 
