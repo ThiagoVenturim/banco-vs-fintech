@@ -142,7 +142,7 @@ A partir das bases da pesquisa State of Data Brazil dos anos 2022, 2023 e 2024, 
 * Hipótese Geral:
   Nos últimos três anos, o setor financeiro passou por transformações estruturais que impactaram diretamente a composição e as exigências em torno dos profissionais de dados. Nossa hipótese é que houve uma especialização progressiva, com perfis mais técnicos, multidisciplinares e experientes ganhando protagonismo, especialmente em áreas críticas como Machine Learning, engenharia de dados e produtização de modelos. Essa tendência teria se acentuado nas Fintech's até 2022, mas passou a ser incorporada também pelos bancos a partir de 2023, com a aceleração da digitalização.
 
-### v
+### Eixo 6 — A Geografia da Disputa por Talentos no Setor Financeiro
 
 **Pergunta-chave Principal:**
 
@@ -301,7 +301,7 @@ Nossa análise exploratória foi estruturada a partir dos cinco eixos definidos 
 
 * [Eixo 5 — Perfil Profissional dos Cientistas de Dados no Setor Financeiro](#Eixo_5)
   
-* [Eixo 6 — A Geografia da Disputa por Talentos no Setor Financeiro(#Eixo- 6)
+* [Eixo 6 — A Geografia da Disputa por Talentos no Setor Financeiro](#Eixo- 6)
 
 ---
 
@@ -749,6 +749,27 @@ Os gráficos de "Linguagens de Programação" e "Quadrantes Estratégicos" revel
 <img width="1473" height="790" alt="__results___92_0" src="https://github.com/user-attachments/assets/b71a11b5-e7f3-478b-9a47-2983553a20ea" />
 
 
+
+
+
+### **Conclusão Geral do Eixo 6**
+
+Integrando os mapas e os fluxos, a hipótese central do Eixo 6 — de que a consolidação do trabalho remoto impulsionou uma descentralização e uma competição de escala nacional, para além do eixo Rio-São Paulo — é **fortemente confirmada**.
+
+A análise revela uma fascinante **realidade dupla** na geografia do mercado de dados: a **força gravitacional dos hubs tradicionais** coexiste com um **fluxo dinâmico e descentralizado** que redesenhou o campo de batalha por talentos.
+
+#### **A Realidade da Concentração: O Poder dos Hubs Físicos**
+
+* **Perfil Geográfico:** Domínio massivo de **São Paulo** como epicentro de talentos, seguido pelo eixo **Rio-Minas** e pela consolidação da **Região Sul (PR e SC)** como um polo secundário robusto.
+* **Estratégia de Atração:** Concentração das **maiores faixas salariais do país**, especialmente nos grandes bancos, que funcionam como um poderoso ímã financeiro e de oportunidades de carreira.
+* **A Dinâmica-Chave:** O **Sudeste como o principal destino** no fluxo migratório, atraindo um volume massivo de profissionais de todas as outras regiões, em especial do Nordeste.
+
+#### **A Realidade do Fluxo: A Nação como Escritório**
+
+* **Perfil Geográfico:** **Fluxos migratórios multidirecionais**, com um surpreendente e expressivo volume de talentos **saindo do Sudeste** para o Sul e o Nordeste, quebrando a lógica do êxodo unidirecional.
+* **Estratégia de Atração:** Uso intensivo do **trabalho remoto**, primeiro por Fintechs e depois compulsoriamente pelos Bancos, para acessar talentos qualificados fora dos grandes e caros centros urbanos.
+* **A Dinâmica-Chave:** A combinação do **poderio financeiro dos bancos** com a **flexibilidade geográfica** se tornou a principal arma na guerra por talentos. Isso permite que eles capturem profissionais sêniores em qualquer lugar do Brasil, tornando a competição verdadeiramente nacional e acirrada.
+
 **Analise dos Resultados**
 
 Estes gráficos medem a adoção de tecnologias de ponta.
@@ -780,8 +801,91 @@ A análise revela a formação de **dois ecossistemas tecnológicos distintos**,
 * **Perfil:** Equipes com uma forte e madura base de **Engenharia de Dados e Analytics Engineering**.
 * **Estratégia de TI:** Arquitetura **"best-of-breed"** (o melhor de cada classe), modular e ágil, baseada no **"Modern Data Stack"**.
 * **As Ferramentas-Chave:** Combinação poderosa de **Snowflake + Airflow + DBT**. Preferência por ferramentas developer-centric como **Looker**. Especialização técnica em modelos de ROI rápido (**Regressão**) e em nichos de altíssimo valor de negócio (**Visão Computacional** para KYC).
+
+## Eixo 6 
+
+
+### Evolução da Concentração de Talentos por Estado - 2022, 2023, 2024
+
+<img width="687" height="427" alt="image" src="https://github.com/user-attachments/assets/233547d8-8ad1-4725-b691-2a166f64f629" />
+<img width="686" height="445" alt="image" src="https://github.com/user-attachments/assets/25c1e8ac-d1e6-4e6e-bdad-7651849ba823" />
+<img width="686" height="445" alt="image" src="https://github.com/user-attachments/assets/4d35966c-7e49-461e-9ad2-a6b071d6cbc6" />
+
+
+
+* **Finalidade dos Gráficos:** Visualizar a densidade e a evolução da concentração geográfica de profissionais de dados nos estados brasileiros ao longo do período de três anos.
+
+* **O que os Gráficos Mostram:**
+    * **Hegemonia de São Paulo:** Há uma concentração massiva e persistente de profissionais de dados no estado de São Paulo (SP) durante todo o período (2022-2024), que se destaca como o principal hub do país.
+    * **Eixo Sudeste-Sul:** Rio de Janeiro (RJ) e Minas Gerais (MG) aparecem como polos secundários. A região Sul, com destaque para Santa Catarina (SC) e Paraná (PR), também exibe uma concentração relevante e aparentemente estável ou em leve crescimento.
+    * **Baixa Densidade no Restante do País:** As demais regiões (Nordeste, Centro-Oeste e Norte) apresentam uma densidade significativamente menor de profissionais, sem alterações visuais drásticas no período.
+
+* **Importância para a Análise:** Os mapas estabelecem a realidade da distribuição de talentos: apesar da ascensão do trabalho remoto, o poder de atração do eixo Sudeste-Sul, e principalmente de São Paulo, continua intacto. Isso demonstra que a "descentralização" não significa, até o momento, uma diluição da importância dos grandes centros, mas sim uma nova dinâmica de competição que ocorre sobre essa geografia já consolidada.
+
+* **Validação da Hipótese:** **Valida parcialmente a hipótese.** Os gráficos confirmam que o "eixo Rio-São Paulo mantém sua histórica relevância". No entanto, a "significativa descentralização" precisa ser matizada. Não houve uma redistribuição de talentos em larga escala, mas sim o fortalecimento de polos secundários (como Florianópolis e Curitiba), que coexistem com a maciça concentração paulista. A verdadeira mudança é revelada nos fluxos migratórios.
+
+---
+
+### Fluxo Migratório de Talentos (Inter-regional) - 2022, 2023, 2024
+<img width="675" height="563" alt="image" src="https://github.com/user-attachments/assets/1da811c9-1b0f-44bb-abfc-6f428b8628e0" />
+<img width="573" height="504" alt="image" src="https://github.com/user-attachments/assets/bfab25d4-7ed7-4acd-a41b-f065297b01a8" />
+<img width="600" height="507" alt="image" src="https://github.com/user-attachments/assets/363fae6d-9508-4aab-9028-161baade0ae8" />
+
+
+* **Finalidade dos Gráficos:** Mapear a dinâmica da movimentação de profissionais de dados entre as cinco grandes regiões do Brasil, identificando as principais origens e destinos.
+
+* **O que os Gráficos Mostram:**
+    * **Sudeste como Principal Ímã:** A região Sudeste é, de forma esmagadora, o principal destino para talentos de todas as outras regiões do país, especialmente do Nordeste.
+    * **Fluxo de Contramão:** Existe um fluxo de saída substancial de talentos *do Sudeste* para outras regiões, principalmente para o Sul e o Nordeste. Esse movimento de "contramão" é um dos achados mais importantes.
+    * **Dinâmica Nacional:** Os fluxos são multidirecionais. O Sul, por exemplo, atrai talentos do Sudeste e do Nordeste, enquanto também "exporta" profissionais para o Sudeste, configurando uma complexa teia de movimentação nacional. O gráfico detalhado de 2023 mostra que talentos de fora do Brasil também têm o Sudeste como principal porta de entrada.
+
+* **Importância para a Análise:** Estes gráficos são a prova da nacionalização da disputa por talentos. O fluxo de saída do Sudeste sugere fortemente o impacto do trabalho remoto: profissionais podem estar trabalhando para empresas sediadas em São Paulo, mas residindo em suas regiões de origem ou em novos polos com melhor qualidade de vida. Isso força os bancos, antes focados em contratação local, a adotar estratégias de recrutamento remoto para não perderem talentos para as fintechs mais flexíveis.
+
+* **Validação da Hipótese:** **Confirma fortemente a hipótese.** Os fluxos revelam exatamente o que foi hipotetizado: uma "competição de escala nacional". A capacidade das Fintechs de contratar remotamente (o que explica parte do fluxo de saída do Sudeste) forçou os bancos a se adaptarem, transformando a geografia da contratação e fortalecendo polos fora dos centros tradicionais.
+
+---
+
+#### Comparativo de Salário por Região` e `Distribuição de Pessoas por Cor/Raça`
+
+<img width="598" height="421" alt="image" src="https://github.com/user-attachments/assets/b4fb3405-f565-4228-8c4b-587bd3cdb3b1" />
+<img width="598" height="421" alt="Captura de tela 2025-07-19 205647" src="https://github.com/user-attachments/assets/57f0c661-aa5a-4e57-bbed-d7f5bf738c0c" />
+
+
+* **Finalidade dos Gráficos:** Entender os fatores financeiros e demográficos que influenciam a distribuição geográfica dos profissionais de dados.
+
+* **O que os Gráficos Mostram:**
+    * **Prêmio Salarial nos Bancos:** O boxplot mostra que os "Grandes Portes (Provável Banco)" oferecem medianas salariais e tetos mais altos em todas as regiões, em comparação com os "Pequeno/Médio Porte (Provável Fintech)". A maior remuneração, especialmente no Sudeste, funciona como um forte fator de atração.
+    * **Concentração Demográfica:** O gráfico de Cor/Raça revela que o mercado de dados é predominantemente composto por pessoas brancas, especialmente nos grandes polos como São Paulo, indicando uma baixa diversidade racial na área.
+
+* **Importância para a Análise:** O fator salarial é crucial para entender a força dos bancos na guerra por talentos. Ao adotarem o trabalho remoto, eles podem usar seu poderio financeiro para contratar os melhores profissionais em qualquer lugar do Brasil, oferecendo salários de "padrão Sudeste" para quem reside em outras regiões, o que representa uma vantagem competitiva imensa. A análise demográfica, por sua vez, adiciona uma camada social crítica, mostrando que a "reconfiguração geográfica" ainda não se traduziu em uma maior diversidade para o setor.
+
+* **Validação da Hipótese:** **Valida a hipótese por um ângulo complementar.** A capacidade financeira superior dos bancos, evidenciada no gráfico salarial, é a arma que lhes permite "adaptar suas estratégias" e competir nacionalmente no modelo remoto. Eles não só foram forçados a adotar a flexibilidade, como agora podem usar seus salários mais altos para superar as Fintechs na atração de talentos em todo o território nacional.
+
+
+
+---
+
+### **Conclusão Geral do Eixo 6**
+
+Integrando os mapas e os fluxos, a hipótese central do Eixo 6 — de que a consolidação do trabalho remoto impulsionou uma descentralização e uma competição de escala nacional, para além do eixo Rio-São Paulo — é **fortemente confirmada**.
+
+A análise revela uma fascinante **realidade dupla** na geografia do mercado de dados: a **força gravitacional dos hubs tradicionais** coexiste com um **fluxo dinâmico e descentralizado** que redesenhou o campo de batalha por talentos.
+
+#### **A Realidade da Concentração: O Poder dos Hubs Físicos**
+
+* **Perfil Geográfico:** Domínio massivo de **São Paulo** como epicentro de talentos, seguido pelo eixo **Rio-Minas** e pela consolidação da **Região Sul (PR e SC)** como um polo secundário robusto.
+* **Estratégia de Atração:** Concentração das **maiores faixas salariais do país**, especialmente nos grandes bancos, que funcionam como um poderoso ímã financeiro e de oportunidades de carreira.
+* **A Dinâmica-Chave:** O **Sudeste como o principal destino** no fluxo migratório, atraindo um volume massivo de profissionais de todas as outras regiões, em especial do Nordeste.
+
+#### **A Realidade do Fluxo: A Nação como Escritório**
+
+* **Perfil Geográfico:** **Fluxos migratórios multidirecionais**, com um surpreendente e expressivo volume de talentos **saindo do Sudeste** para o Sul e o Nordeste, quebrando a lógica do êxodo unidirecional.
+* **Estratégia de Atração:** Uso intensivo do **trabalho remoto**, primeiro por Fintechs e depois compulsoriamente pelos Bancos, para acessar talentos qualificados fora dos grandes e caros centros urbanos.
+* **A Dinâmica-Chave:** A combinação do **poderio financeiro dos bancos** com a **flexibilidade geográfica** se tornou a principal arma na guerra por talentos. Isso permite que eles capturem profissionais sêniores em qualquer lugar do Brasil, tornando a competição verdadeiramente nacional e acirrada.
+
   
 ---
+
 
 <div id='Indução_de_modelos'/>  
 
@@ -797,11 +901,11 @@ A análise revela a formação de **dois ecossistemas tecnológicos distintos**,
 
 <div id='Conclusão'/>  
 
-## Conclusão:
-# Conclusão Final
 
 
-### **Conclusão Geral: A Bifurcação Estratégica e a Maturação do Mercado de Dados Brasileiro**
+# **Conclusão Final**
+
+#### **Conclusão Geral: A Bifurcação Estratégica e a Maturação do Mercado de Dados Brasileiro**
 
 A análise longitudinal dos dados de 2022 a 2024 oferece uma resposta clara e multifacetada ao problema proposto: a disputa entre a "Fintechzação" dos Bancos e a "Bancarização" das Fintechs não apenas reconfigurou o mercado financeiro, mas forjou **dois ecossistemas de trabalho distintos e cada vez mais especializados para os profissionais de dados**. Se em 2022 o setor parecia uma única corrida pelo ouro, em 2024, ele se assemelha a um campeonato com modalidades diferentes, cada uma com seus próprios atletas, equipamentos e estratégias.
 
@@ -822,7 +926,6 @@ Isso revela uma nova estratégia de contratação: em um cenário que exige efic
 
 #### **3. A Bifurcação Estratégica: Dois Caminhos para a Especialização**
 
-
 A conclusão mais profunda da análise é que, para responder a desafios de gestão distintos (Eixo 3), Bancos e Fintechs seguiram **caminhos de especialização tecnológica radicalmente diferentes**. Não se trata mais de um setor "atrasado" e outro "avançado", mas de duas filosofias que moldam o perfil, as ferramentas e as competências de seus profissionais.
 
 * **O Ecossistema dos Bancos: A Maratona da Integração em Escala**
@@ -835,13 +938,19 @@ A conclusão mais profunda da análise é que, para responder a desafios de gest
     * **Estratégia:** Utilização de uma arquitetura modular e flexível, o "Modern Data Stack".
     * **Perfil Técnico:** Domínio da combinação **Snowflake + DBT + Airflow**. Especialização em modelos de ROI rápido como **Regressão** e em nichos de altíssimo valor, como **Visão Computacional** para processos de KYC.
 
+#### **4. A Batalha em Escala Nacional: A Quebra das Barreiras Geográficas**
+
+A análise geográfica (Eixo 6) revela uma quarta transformação crucial: **a competição por talentos deixou de ser local para se tornar uma disputa de escala nacional**. A consolidação do trabalho remoto, primeiro capitalizada pelas Fintechs, forçou os Bancos a se adaptarem para não perderem talentos. Isso gerou uma nova dinâmica:
+* **Uma Realidade Dupla:** Enquanto os mapas mostram que **São Paulo continua sendo o epicentro de concentração** de profissionais, os fluxos migratórios revelam um **intenso trânsito de talentos para fora do Sudeste**.
+* **A Vantagem Competitiva dos Bancos:** Essa mudança deu aos bancos uma nova e poderosa arma. Eles agora podem combinar seu **poderio financeiro superior** com a **flexibilidade geográfica**, contratando os melhores profissionais em qualquer lugar do Brasil, sem a necessidade de realocação para os caros centros urbanos. A guerra pela seniorização agora é travada em todo o território nacional.
+
 ### **O Que Podemos Tirar Disso? As Respostas Finais**
 
-1.  **Para o Profissional de Dados:** A escolha entre um Banco e uma Fintech deixou de ser apenas sobre salário ou estabilidade. É uma **decisão estratégica de carreira sobre em qual ecossistema tecnológico se especializar**. O profissional que prospera em um ambiente Databricks/Azure não é necessariamente o mesmo que prospera em um ambiente Snowflake/DBT/GCP. A especialização tornou-se fundamental, e a portabilidade de competências entre os dois mundos não é mais trivial.
+1.  **Para o Profissional de Dados:** A escolha entre um Banco e uma Fintech deixou de ser apenas sobre salário ou estabilidade. É uma **decisão estratégica de carreira sobre em qual ecossistema tecnológico se especializar e em qual modelo de trabalho atuar**. O profissional que prospera em um ambiente Databricks/Azure não é necessariamente o mesmo que prospera em um ambiente Snowflake/DBT/GCP. A especialização e o alinhamento com a cultura de trabalho (remota, híbrida, presencial) tornaram-se fundamentais.
 
-2.  **Para as Empresas:** A competição por talentos agora é sobre **"fit" cultural e tecnológico**. Os Bancos devem vender sua capacidade de investimento em grandes plataformas e a oportunidade de resolver problemas de escala massiva. As Fintechs devem vender sua agilidade, o uso de tecnologias de ponta em nichos específicos e a capacidade de gerar impacto direto no negócio. A proposta de valor de cada um ficou mais clara e distinta.
+2.  **Para as Empresas:** A competição por talentos agora é sobre **"fit" cultural, tecnológico e geográfico**. Os Bancos devem vender sua capacidade de investimento em grandes plataformas e a oportunidade de resolver problemas de escala massiva, agora com flexibilidade de localização. As Fintechs devem vender sua agilidade, o uso de tecnologias de ponta em nichos específicos e a capacidade de gerar impacto direto no negócio, atraindo talentos que valorizam essa cultura.
 
-3.  **Para o Mercado Brasileiro:** A transformação do setor financeiro resultou na **maturação e sofisticação do mercado de dados como um todo**. A existência de dois ecossistemas paralelos, mas igualmente avançados, é um sinal de um mercado saudável e em evolução, com diferentes polos de inovação que se retroalimentam e elevam o nível técnico geral do país. A "disputa" entre Bancos e Fintechs, no fim das contas, enriqueceu e diversificou as oportunidades para quem trabalha com dados no Brasil.
+3.  **Para o Mercado Brasileiro:** A transformação do setor financeiro resultou na **maturação e sofisticação do mercado de dados como um todo**. A existência de dois ecossistemas paralelos, mas igualmente avançados, e uma disputa por talentos que transcende as fronteiras regionais, são sinais de um mercado saudável e em evolução. A "disputa" entre Bancos e Fintechs, no fim das contas, enriqueceu e diversificou as oportunidades para quem trabalha com dados no Brasil.
 
 ---
 
