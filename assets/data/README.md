@@ -8,5 +8,5 @@
   * [State of Data 2023-2024](/assets/data/datasets/state_of_data_2023.csv)
 
 ## Base de Dados Apos Limpeza e Junção:
-  *
+  * [Base de Dados Preparada](/assets/data/datasets/data_financeiro_classificado.csv)
   
