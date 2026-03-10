@@ -17,7 +17,7 @@ O objetivo é mapear como a disputa entre bancos tradicionais e fintechs está m
 ---
 
 _**Integrantes:**_
-* Enzo Alves Barcelos Gripp, (eabgripp@sga.pucminas.br)
+* Enzo Alves Barcelos Gripp, (enzogripp2@gmail.com)
 * Pedro Dias Soares, (pedro3soares@gmail.com)
 * Thiago Domingos Venturim Ribeiro dos Santos, (thiagodomingosventutim@gmail.com)
 
